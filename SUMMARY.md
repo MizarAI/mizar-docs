@@ -10,6 +10,7 @@
   * [Developing with MizarLabs](introduction/tutorial/mizar-labs-tutorial/README.md)
     * [How to create API key](introduction/tutorial/mizar-labs-tutorial/how-to-create-api-key.md)
     * [Develop and Deploy Your First Strategy](introduction/tutorial/mizar-labs-tutorial/creating-a-trading-strategy.md)
+    * [Create a new strategy](introduction/tutorial/mizar-labs-tutorial/how-to-interact-with-mizar-api-through-mizar-sdk.md)
   * [Using the Marketplace](introduction/tutorial/marketplace-tutorial/README.md)
     * [Connect Your Exchange](introduction/tutorial/marketplace-tutorial/connect-exchange.md)
     * [Strategy Metrics](introduction/tutorial/marketplace-tutorial/what-are-the-strategies-metrics.md)
