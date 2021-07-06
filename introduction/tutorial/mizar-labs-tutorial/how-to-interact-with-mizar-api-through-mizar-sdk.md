@@ -1,10 +1,12 @@
 ---
 description: >-
-  Here we describe how to create a new strategy, open and close positions using
-  the mizar python SDK
+  Here we describe how to create a new self-hosted strategy, open and close
+  positions using the mizar python SDK
 ---
 
-# Create a new strategy
+# Self-Hosted Strategies
+
+Self-hosted strategies are strategies hosted by quants/trading firms in their own servers. 
 
 ## Creating a new self-hosted strategy
 
