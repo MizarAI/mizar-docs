@@ -9,7 +9,6 @@
 * [Tutorials](introduction/tutorial/README.md)
   * [Developing with MizarLabs](introduction/tutorial/mizar-labs-tutorial/README.md)
     * [How to create API key](introduction/tutorial/mizar-labs-tutorial/how-to-create-api-key.md)
-    * [Develop and Deploy Your First Strategy](introduction/tutorial/mizar-labs-tutorial/creating-a-trading-strategy.md)
     * [Self-Hosted Strategies SDK](introduction/tutorial/mizar-labs-tutorial/how-to-interact-with-mizar-api-through-mizar-sdk.md)
     * [Self-Hosted Strategies TradingView](introduction/tutorial/mizar-labs-tutorial/self-hosted-strategies-tradingview.md)
   * [Using the Marketplace](introduction/tutorial/marketplace-tutorial/README.md)
