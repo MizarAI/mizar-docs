@@ -6,7 +6,7 @@ description: TradingView webhook commands
 
 ## Open long position
 
-```text
+```javascript
 {
   "api_key": "",
   "action": "open-position",
@@ -19,11 +19,11 @@ description: TradingView webhook commands
 
 ## Open short position
 
-```text
+```javascript
 {
   "api_key": "",
   "action": "open-position",
-  "strategy_id": ,
+  "strategy_id": "",
   "base_asset": "BTC",
   "quote_asset":"USDT",
   "is_long": "false"
@@ -32,7 +32,7 @@ description: TradingView webhook commands
 
 ## Close position
 
-```text
+```javascript
 {
   "api_key": "",
   "action": "close-position",
@@ -43,7 +43,7 @@ description: TradingView webhook commands
 
 ## Close all open positions
 
-```text
+```javascript
 {
   "api_key": "",
   "action": "close-all-positions",
