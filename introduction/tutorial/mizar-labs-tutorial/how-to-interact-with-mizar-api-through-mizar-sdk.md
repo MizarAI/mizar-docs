@@ -20,7 +20,7 @@ mizar_client = Mizar()
 mizar_client.create_self_hosted_strategy(
     name="My Strategy",
     description="My Strategy works this way",
-    exchange="binance",
+    exchanges=["binance"],
     symbols=["BTCUSDT"],
     market="SPOT"
 )
