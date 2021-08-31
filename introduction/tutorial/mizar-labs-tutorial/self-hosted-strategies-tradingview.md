@@ -16,7 +16,7 @@ Endpoint: [https://api.mizar.ai/api/v1/trading-view/execute-command](https://api
   "base_asset": "BTC",
   "quote_asset":"USDT",
   "is_long": "true",
-  "size": "1",
+  "size": "1"
 }
 ```
 
@@ -40,7 +40,7 @@ Endpoint: [https://api.mizar.ai/api/v1/trading-view/execute-command](https://api
   "api_key": "",
   "action": "close-position",
   "strategy_id": "",
-  "position_id": "",
+  "position_id": ""
 }
 ```
 
@@ -50,7 +50,7 @@ Endpoint: [https://api.mizar.ai/api/v1/trading-view/execute-command](https://api
 {
   "api_key": "",
   "action": "close-all-positions",
-  "strategy_id": "",
+  "strategy_id": ""
 }
 ```
 
