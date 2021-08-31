@@ -94,6 +94,13 @@ mizar_client.dca_bot_stop_and_close_positions(
 )
 ```
 
+Expected response
+
+```python
+{'detail': 
+'Request with action stop-bot-and-close-all-positions has been successfully submitted to bot 1 that has 1 subscriptions.'}
+```
+
 ## Get Open Positions
 
 ```python
