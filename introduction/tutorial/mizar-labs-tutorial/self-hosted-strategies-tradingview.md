@@ -29,7 +29,8 @@ Endpoint: [https://api.mizar.ai/api/v1/trading-view/execute-command](https://api
   "strategy_id": "",
   "base_asset": "BTC",
   "quote_asset":"USDT",
-  "is_long": "false"
+  "is_long": "false",
+  "size": "1"
 }
 ```
 
