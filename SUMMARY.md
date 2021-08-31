@@ -8,6 +8,7 @@
 * [FAQ](introduction/faq.md)
 * [Tutorials](introduction/tutorial/README.md)
   * [Developing with MizarLabs](introduction/tutorial/mizar-labs-tutorial/README.md)
+    * [DCA Bot SDK](introduction/tutorial/mizar-labs-tutorial/dca-bot-sdk.md)
     * [How to create API key](introduction/tutorial/mizar-labs-tutorial/how-to-create-api-key.md)
     * [Self-Hosted Strategies SDK](introduction/tutorial/mizar-labs-tutorial/how-to-interact-with-mizar-api-through-mizar-sdk.md)
     * [Self-Hosted Strategies TradingView](introduction/tutorial/mizar-labs-tutorial/self-hosted-strategies-tradingview.md)
