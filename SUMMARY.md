@@ -5,7 +5,6 @@
 ## INTRODUCTION
 
 * [Getting Started](introduction/getting-started.md)
-* [FAQ](introduction/faq.md)
 * [Tutorials](introduction/tutorial/README.md)
   * [Developing with MizarLabs](introduction/tutorial/mizar-labs-tutorial/README.md)
     * [DCA Bot SDK](introduction/tutorial/mizar-labs-tutorial/dca-bot-sdk.md)
