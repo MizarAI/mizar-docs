@@ -2,9 +2,15 @@
 
 * [Mizar](README.md)
 
-## INTRODUCTION
+## Platform
 
-* [Getting Started](introduction/getting-started.md)
+* [Marketplace](platform/marketplace.md)
+* [Strategy Performance Analytics](platform/strategy-performance-analytics.md)
+* [Community](platform/community.md)
+* [Fees](platform/fees.md)
+
+## Tutorials <a id="introduction"></a>
+
 * [Tutorials](introduction/tutorial/README.md)
   * [Developing with MizarLabs](introduction/tutorial/mizar-labs-tutorial/README.md)
     * [DCA Bot SDK](introduction/tutorial/mizar-labs-tutorial/dca-bot-sdk.md)
@@ -15,13 +21,6 @@
     * [Connect Your Exchange](introduction/tutorial/marketplace-tutorial/connect-exchange.md)
     * [Strategy Metrics](introduction/tutorial/marketplace-tutorial/what-are-the-strategies-metrics.md)
     * [Allocate Capital](introduction/tutorial/marketplace-tutorial/allocate-capital.md)
-
-## Platform
-
-* [Marketplace](platform/marketplace.md)
-* [Strategy Performance Analytics](platform/strategy-performance-analytics.md)
-* [Community](platform/community.md)
-* [Fees](platform/fees.md)
 
 ## DCA Bots
 
