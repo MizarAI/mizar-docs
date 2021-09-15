@@ -14,5 +14,15 @@ In the general settings you can enter a name for your bot and provide a descript
 
 ### Strategy Settings
 
+In the strategy Settings section, you can set the high-level behaviours of your bot.
+
+![Strategy Settings](../.gitbook/assets/screen-shot-2021-09-15-at-11.04.56-am.png)
+
+#### Type
+
+The bot can be of two different types: long or short. A Long bot takes long positions which means that it buys and then sells in order to generate profits. Instead, a short bot is a bot that sells and then buys in order to generate profits.
+
+
+
 
 
