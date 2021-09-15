@@ -1,21 +1,12 @@
 ---
-description: Mizar is an algorithmic trading platform created by quants for quants.
+description: Smart trading for everyone
 ---
 
-# Welcome to Mizar!
+# Mizar
 
-#### Here are the articles in this section:
+Mizar is a next-gen trading platform where traders can search for strategies to securely allocate capital or get access to a wide range of trading tools to put their assets in motion. Mizar makes trading simpler and accessible to everyone, subscription-free.
 
-{% page-ref page="introduction/getting-started.md" %}
 
-**Useful Links:**
 
-* Website: [https://mizar.ai/](https://mizar.ai/)
-* Documentation Mizar Labs: [https://mizarlabs.readthedocs.io/en/latest/mizarlabs.html](https://mizarlabs.readthedocs.io/en/latest/mizarlabs.html)
-* Github Mizar Labs: [https://github.com/MizarAI/mizar-labs](https://github.com/MizarAI/mizar-labs)
 
-#### Contact Us
-
-* Email: info@mizar.ai
-* [https://mizar.ai/contact-us](https://mizar.ai/contact-us)
 

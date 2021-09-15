@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Mizar!](README.md)
+* [Mizar](README.md)
 
 ## INTRODUCTION
 
