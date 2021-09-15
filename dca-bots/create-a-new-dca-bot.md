@@ -24,13 +24,15 @@ The bot can be of two different types: long or short. A Long bot takes long posi
 
 #### Order Size
 
-Order Size indicates the size of the opening order of the position. It is always defined in quote asset.
+Order Size indicates the size of the start order of the position. It is always defined in quote asset.
 
 #### Safety Order Size
 
-Safety Order Size is the size of the orders that get executed when the price goes against the position taken \(e.g. the position is long and the price goes down\). The Safety Orders are useful to reduce risks and generate profits with small price movements.Start 
+Safety Order Size is the size of the orders that get executed when the price goes against the position taken \(e.g. the position is long and the price goes down\). The Safety Orders are useful to reduce risks and generate profits with small price movements.
 
+#### Start Order Type
 
+There are two types of start order: Market and LImit. When Market type is selected the start order will be executed as market order. Instead when Limit type is selected the start order will be executed with a special aggressive limit order strategy that will avoid price slippage.
 
 
 
