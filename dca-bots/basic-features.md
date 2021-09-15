@@ -1,4 +1,0 @@
-# Basic Settings
-
-Coming soon!
-
