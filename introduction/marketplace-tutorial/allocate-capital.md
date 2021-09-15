@@ -12,13 +12,13 @@ To allocate some capital, follow these steps:
 Visit the marketplace and select your favourite strategy.
 {% endhint %}
 
-![NB: strategies/strategies performances might change within the time](../../../.gitbook/assets/screenshot-2021-03-20-at-13.10.53.png)
+![NB: strategies/strategies performances might change within the time](../../.gitbook/assets/screenshot-2021-03-20-at-13.10.53.png)
 
 {% hint style="info" %}
 Associate some capital to the strategy. In order to do that, select an amount of quote and base asset and define the maximum trade size.
 {% endhint %}
 
-![](../../../.gitbook/assets/screenshot-2021-03-20-at-13.20.53.png)
+![](../../.gitbook/assets/screenshot-2021-03-20-at-13.20.53.png)
 
 {% hint style="info" %}
 Trade.

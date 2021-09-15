@@ -11,16 +11,15 @@
 
 ## Tutorials <a id="introduction"></a>
 
-* [Tutorials](introduction/tutorial/README.md)
-  * [Developing with MizarLabs](introduction/tutorial/mizar-labs-tutorial/README.md)
-    * [DCA Bot SDK](introduction/tutorial/mizar-labs-tutorial/dca-bot-sdk.md)
-    * [How to create API key](introduction/tutorial/mizar-labs-tutorial/how-to-create-api-key.md)
-    * [Self-Hosted Strategies SDK](introduction/tutorial/mizar-labs-tutorial/how-to-interact-with-mizar-api-through-mizar-sdk.md)
-    * [Self-Hosted Strategies TradingView](introduction/tutorial/mizar-labs-tutorial/self-hosted-strategies-tradingview.md)
-  * [Using the Marketplace](introduction/tutorial/marketplace-tutorial/README.md)
-    * [Connect Your Exchange](introduction/tutorial/marketplace-tutorial/connect-exchange.md)
-    * [Strategy Metrics](introduction/tutorial/marketplace-tutorial/what-are-the-strategies-metrics.md)
-    * [Allocate Capital](introduction/tutorial/marketplace-tutorial/allocate-capital.md)
+* [Developing with MizarLabs](introduction/mizar-labs-tutorial/README.md)
+  * [DCA Bot SDK](introduction/mizar-labs-tutorial/dca-bot-sdk.md)
+  * [How to create API key](introduction/mizar-labs-tutorial/how-to-create-api-key.md)
+  * [Self-Hosted Strategies SDK](introduction/mizar-labs-tutorial/how-to-interact-with-mizar-api-through-mizar-sdk.md)
+  * [Self-Hosted Strategies TradingView](introduction/mizar-labs-tutorial/self-hosted-strategies-tradingview.md)
+* [Using the Marketplace](introduction/marketplace-tutorial/README.md)
+  * [Connect Your Exchange](introduction/marketplace-tutorial/connect-exchange.md)
+  * [Strategy Metrics](introduction/marketplace-tutorial/what-are-the-strategies-metrics.md)
+  * [Allocate Capital](introduction/marketplace-tutorial/allocate-capital.md)
 
 ## DCA Bots
 

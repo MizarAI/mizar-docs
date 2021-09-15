@@ -8,7 +8,7 @@ Investors can subscribe to algo-trading strategies on the marketplace and evalua
 
 There are multiple metrics to look at to help the investor make an informed decision on whether he or she wants to invest in the strategy \(see Figure 1\). This tutorial will explain what these metrics mean. 
 
-![Figure 1: Strategy Page with Performance Metrics.](../../../.gitbook/assets/screenshot-from-2021-04-26-13-55-25.png)
+![Figure 1: Strategy Page with Performance Metrics.](../../.gitbook/assets/screenshot-from-2021-04-26-13-55-25.png)
 
 * **APY \(Annual Percentage Yield\):** The APY shows much return the strategy would have made per year taking into account compounding effects. It is calculated as follows: 
 

@@ -12,13 +12,13 @@ To connect to Mizar, follow these steps:
 Go to the Exchange section.
 {% endhint %}
 
-![](../../../.gitbook/assets/screenshot-2021-03-20-at-12.29.57.png)
+![](../../.gitbook/assets/screenshot-2021-03-20-at-12.29.57.png)
 
 {% hint style="info" %}
 Select the exchange, insert your API private and public keys and save. 
 {% endhint %}
 
-![](../../../.gitbook/assets/screenshot-2021-03-20-at-12.37.11.png)
+![](../../.gitbook/assets/screenshot-2021-03-20-at-12.37.11.png)
 
 {% hint style="success" %}
 Done! You are now connected to Mizar.
