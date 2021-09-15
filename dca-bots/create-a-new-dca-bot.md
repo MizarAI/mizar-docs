@@ -32,7 +32,13 @@ Safety Order Size is the size of the orders that get executed when the price goe
 
 #### Start Order Type
 
-There are two types of start order: Market and LImit. When Market type is selected the start order will be executed as market order. Instead when Limit type is selected the start order will be executed with a special aggressive limit order strategy that will avoid price slippage.
+There are two types of start order: Market and Limit. When Market type is selected the start order will be executed as market order. Instead when Limit type is selected the start order will be executed with a special aggressive limit order strategy that will avoid price slippage.
+
+#### Start Order Conditions
+
+Start order conditions define the conditions to open a new position.
+
+* **Open Position ASAP:** 
 
 
 
