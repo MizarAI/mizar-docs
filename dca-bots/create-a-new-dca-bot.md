@@ -22,6 +22,16 @@ In the strategy Settings section, you can set the high-level behaviours of your 
 
 The bot can be of two different types: long or short. A Long bot takes long positions which means that it buys and then sells in order to generate profits. Instead, a short bot is a bot that sells and then buys in order to generate profits.
 
+#### Order Size
+
+Order Size indicates the size of the opening order of the position. It is always defined in quote asset.
+
+#### Safety Order Size
+
+Safety Order Size is the size of the orders that get executed when the price goes against the position taken \(e.g. the position is long and the price goes down\). The Safety Orders are useful to reduce risks and generate profits with small price movements.Start 
+
+
+
 
 
 
