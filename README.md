@@ -10,7 +10,7 @@ Mizar is a next-gen trading platform where traders can search for strategies to 
 
 All Mizar founders have been trading in several markets in a personal capacity or for large institutions and we know how advanced trading tools can reduce risk and increase profitability. Mizar's mission is to deliver advanced yet simple to use trading tools and make them accessible to everyone.
 
-**MIzar Vision**
+**The Vision**
 
 We believe that algorithmic trading should be simpler and accessible to everyone.
 
