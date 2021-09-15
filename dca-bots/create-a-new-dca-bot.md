@@ -49,7 +49,9 @@ Start order conditions define the conditions to open a new position.
 * **Open Position ASAP:** open a new position as soon as possible.
 * **API**: open a new position through an API command.
 * **TradingView \(webhook/API\)**: open a new position through TradingView's custom signal.
-* **TradingView Indicators**: open a new position based on technical indicators from TradingView, which can be customised directly in Mizar.
+* **TradingView Indicators**: open a new position based on technical indicators from TradingView, which can be customised directly in Mizar. For example, it is possible to create a starting condition on a technical indicator, such that it only opens a position if the technical indicator's value is below or above some user set threshold. 
+
+![Example of TradingView Customisable Starting Conditions](../.gitbook/assets/screenshot-2021-09-15-at-15.05.59.png)
 
 ### Exchanges and Market
 
@@ -105,6 +107,11 @@ In this section, you can edit the settings for the safety orders. This is arguab
 ![](../.gitbook/assets/screenshot-2021-09-15-at-13.20.18.png)
 
 ### Advanced Settings
+
+In this section, we describe the advanced settings of the bot.
+
+* **Position Break Period**: The break period is defined in seconds and will build in a delay between the opening of positions. If a position is opened, then the next position can only be opened after break period.
+* **Position Timeout**: The timeout is set in hours and a position will be automatically closed if the timeout has expired. If the timeout is not set, then the position is kept open indefinitely until the take profit order, or optionally, the stop loss is hit.
 
 ![](../.gitbook/assets/screenshot-2021-09-15-at-13.20.37.png)
 
