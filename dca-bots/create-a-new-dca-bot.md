@@ -110,7 +110,7 @@ In this section, you can edit the settings for the safety orders. This is arguab
 
 In this section, we describe the advanced settings of the bot.
 
-* **Position Break Period**: The break period is defined in seconds and will build in a delay between the opening of positions. If a position is opened, then the next position can only be opened after break period.
+* **Position Break Period**: The break period is defined in seconds and will build in a delay between the opening of positions. If a position is opened, then the next position can only be opened after the break period.
 * **Position Timeout**: The timeout is set in hours and a position will be automatically closed if the timeout has expired. If the timeout is not set, then the position is kept open indefinitely until the take profit order, or optionally, the stop loss is hit.
 
 ![](../.gitbook/assets/screenshot-2021-09-15-at-13.20.37.png)
