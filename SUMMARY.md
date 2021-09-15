@@ -24,6 +24,11 @@
     * [Strategy Metrics](introduction/tutorial/marketplace-tutorial/what-are-the-strategies-metrics.md)
     * [Allocate Capital](introduction/tutorial/marketplace-tutorial/allocate-capital.md)
 
+## DCA Bots
+
+* [Introduction](dca-bots/introduction.md)
+* [Create a New DCA Bot](dca-bots/create-a-new-dca-bot.md)
+
 ## MizarLabs \(coming out soon\) <a id="mizarlabs"></a>
 
 * [Introduction](mizarlabs/mizar-labs-introduction.md)
@@ -52,9 +57,4 @@
 * [MZR Utility Token](whitepaper/mzr-utility-token/README.md)
   * [Ecosystem](whitepaper/mzr-utility-token/token-ecosystem.md)
 * [Roadmap](whitepaper/roadmap.md)
-
-## DCA Bots
-
-* [Introduction](dca-bots/introduction.md)
-* [Create a New DCA Bot](dca-bots/create-a-new-dca-bot.md)
 
