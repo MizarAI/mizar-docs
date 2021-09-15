@@ -14,7 +14,7 @@ In the general settings you can enter a name for your bot and provide a descript
 
 ### Strategy Settings
 
-In the strategy Settings section, you can set the high-level behaviours of your bot.
+In the strategy Settings section, you can set the high-level behaviors of your bot.
 
 ![Strategy Settings](../.gitbook/assets/screen-shot-2021-09-15-at-11.04.56-am.png)
 
@@ -38,7 +38,10 @@ There are two types of start order: Market and Limit. When Market type is select
 
 Start order conditions define the conditions to open a new position.
 
-* **Open Position ASAP:** 
+* **Open Position ASAP:** open a new position as soon as possible
+* **API**: open a new position through API command
+* **TradingView \(webhook/API\)**: open a new position through TradingView custom signal
+* **TradingView Indicators**: open a new position based on technical indicators settings customisable directly in MIzar
 
 
 
