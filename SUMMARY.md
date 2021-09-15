@@ -17,7 +17,7 @@
     * [Strategy Metrics](introduction/tutorial/marketplace-tutorial/what-are-the-strategies-metrics.md)
     * [Allocate Capital](introduction/tutorial/marketplace-tutorial/allocate-capital.md)
 
-## MizarLabs
+## MizarLabs \(coming out soon\) <a id="mizarlabs"></a>
 
 * [Introduction](mizarlabs/mizar-labs-introduction.md)
 * [Data Sources](mizarlabs/data-sources.md)
