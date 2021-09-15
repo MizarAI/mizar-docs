@@ -43,7 +43,15 @@ Start order conditions define the conditions to open a new position.
 * **TradingView \(webhook/API\)**: open a new position through TradingView custom signal
 * **TradingView Indicators**: open a new position based on technical indicators settings customisable directly in MIzar
 
+### Exchanges and Market
 
+Exchanges and Market section define where your bot will trade.
+
+![Exchanges and Market](../.gitbook/assets/screen-shot-2021-09-15-at-11.46.08-am.png)
+
+Multiple exchanges can be assigned to a bot settings. Only when the bot is activated then you will be asked to decide in which exchange to run your dca bot.
+
+Each bot setting can be assigned either to SPOT or FUTURES market.
 
 
 
