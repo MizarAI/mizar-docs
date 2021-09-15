@@ -18,7 +18,7 @@ The name and the description will be shared with other users, if the bot is made
 
 ### Strategy Settings
 
-In the strategy Settings section, you can set the high-level behaviors of your bot.
+In the strategy Settings section, you can set the high-level behaviours of your bot.
 
 ![Strategy Settings](../.gitbook/assets/screen-shot-2021-09-15-at-11.04.56-am.png)
 
@@ -82,6 +82,12 @@ For trailing take profit to work well, the trailing deviation needs to be set su
 {% endhint %}
 
 ### Stop Loss
+
+A stop loss can be set for each position optionally. If the price moves against you too much, then the stop loss activates and closes the position to prevent further losses. The stop loss will only activate after all safety orders has been hit and is calculated based on the average price. For example if the average price after hitting all safety orders is 100 USD and the stop loss is 10%, then the stop loss is set at 90 USD and will activate when the price drops below that.
+
+* **Stop Loss**: Set as percentage and will be calculated based on the average price after hitting all safety orders.
+* **Stop Loss Type**: When the stop loss is hit the bot can either a\) close the position or b\) close the position and stop the bot entirely
+* **Stop Loss Timeout**: The stop loss timeout is set in seconds, when the stop loss is hit for the first time, then after the timeout it will check again if the stop loss is still hit. If that is the case then the stop loss is activated. This is to prevent hitting the stop loss by accident.
 
 ![](../.gitbook/assets/screenshot-2021-09-15-at-13.39.25.png)
 
