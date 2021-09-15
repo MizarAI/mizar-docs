@@ -53,12 +53,6 @@
   * [Ecosystem](whitepaper/mzr-utility-token/token-ecosystem.md)
 * [Roadmap](whitepaper/roadmap.md)
 
-## Connect
-
-* [Telegram](https://t.me/mizar_ai)
-* [Twitter](https://twitter.com/mizar_ai)
-* [Linkedin](https://www.linkedin.com/company/mizar-ai)
-
 ## DCA Bots
 
 * [Introduction](dca-bots/introduction.md)
