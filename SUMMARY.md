@@ -2,6 +2,13 @@
 
 * [Mizar](README.md)
 
+## Platform
+
+* [Marketplace](platform/marketplace.md)
+* [Strategy Performance Analytics](platform/strategy-performance-analytics.md)
+* [Community](platform/community.md)
+* [Fees](platform/fees.md)
+
 ## INTRODUCTION
 
 * [Getting Started](introduction/getting-started.md)
@@ -36,13 +43,6 @@
   * [Microstructural Features](mizarlabs/transformations/microstructural-features.md)
 * [Strategy Backtesting](mizarlabs/backtesting.md)
 * [Strategy Deployment](mizarlabs/trading-strategy-deployment.md)
-
-## Platform
-
-* [Marketplace](platform/marketplace.md)
-* [Strategy Performance Analytics](platform/strategy-performance-analytics.md)
-* [Community](platform/community.md)
-* [Fees](platform/fees.md)
 
 ## Whitepaper
 
