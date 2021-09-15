@@ -6,6 +6,7 @@
 
 * [Getting Started](introduction/getting-started.md)
 * [Tutorials](introduction/tutorial/README.md)
+  * [Untitled](introduction/tutorial/untitled.md)
   * [Developing with MizarLabs](introduction/tutorial/mizar-labs-tutorial/README.md)
     * [DCA Bot SDK](introduction/tutorial/mizar-labs-tutorial/dca-bot-sdk.md)
     * [How to create API key](introduction/tutorial/mizar-labs-tutorial/how-to-create-api-key.md)
