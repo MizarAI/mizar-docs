@@ -65,7 +65,7 @@ Each bot setting can be assigned either to SPOT or FUTURES market.
 
 ### Pairs
 
-In the pairs section you can select which pairs to trade. You have to select at least one and you can select as many pairs as you want.
+In the pairs section you can select which pairs to trade. You have to select at least one pairs to trade with and you can select as many pairs as you want.
 
 ![](../.gitbook/assets/screenshot-2021-09-15-at-13.19.00.png)
 
