@@ -93,6 +93,15 @@ A stop loss can be set for each position optionally. If the price moves against 
 
 ### Orders Settings
 
+In this section, you can edit the settings for the safety orders. This is arguably the most important part of the settings for your DCA bot. The goal of the safety orders is to improve your average price, such that the overall entry price is better and the probability of exiting with a profit increases.
+
+* **Max n. Open Positions**: The maximum number of open positions simultaneously. 
+* **Max Safety Trades count**: The maximum number of safety orders per position.
+* **Max Active Safety Trades Count**: The maximum number of open safety orders per position.
+* **Open Orders Price Deviation**: The price deviation in percentage for each safety order. For example if the price deviation is set at 2%, then the safety orders are set every 2% apart from each other. If the base order price is 100 USD, then the first safety order's price is set at 98 USD, the next one at 96 USD, etc.
+* **Safety Order Volume Scale**: The volume scale can be used to increase the order size of each subsequent safety order. For example, if the volume scale is 2, and first safety order is set at 100 USD, then the safety order sizes 100 USD, 200 USD, 400 USD, 800 USD, etc. By increasing the order size per safety order, you effectively improve your average price and make it easier to exit with a profit.
+* **Safety Order Step Scale**: The step scale can be used to increase the price deviation per safety order. For example if the step scale is 2, and the initial deviation is 2%, then the next  deviations are 6%, 14%, 30%, etc.
+
 ![](../.gitbook/assets/screenshot-2021-09-15-at-13.20.18.png)
 
 ### Advanced Settings
