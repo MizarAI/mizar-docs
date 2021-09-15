@@ -1,4 +1,4 @@
-# Basic Features
+# Basic Settings
 
 Coming soon!
 

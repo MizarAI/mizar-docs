@@ -63,6 +63,6 @@
 
 * [Introduction](dca-bots/introduction.md)
 * [Create a New DCA Bot](dca-bots/create-a-new-dca-bot.md)
-* [Basic Features](dca-bots/basic-features.md)
+* [Basic Settings](dca-bots/basic-features.md)
 * [Advanced Settings](dca-bots/advanced-features.md)
 
