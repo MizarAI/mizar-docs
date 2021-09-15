@@ -27,6 +27,8 @@
 
 * [Introduction](dca-bots/introduction.md)
 * [Create a New DCA Bot](dca-bots/create-a-new-dca-bot.md)
+* [Evaluate DCA Bot Performance](dca-bots/evaluate-dca-bot-performance.md)
+* [Monitor and Manage Active Positions](dca-bots/monitor-and-manage-active-positions.md)
 
 ## MizarLabs \(coming out soon\) <a id="mizarlabs"></a>
 

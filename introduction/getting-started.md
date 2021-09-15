@@ -1,7 +1,3 @@
----
-description: Mizar is an algorithmic trading platform created by quants for quants.
----
-
 # Getting Started
 
 #### What is Mizar?
