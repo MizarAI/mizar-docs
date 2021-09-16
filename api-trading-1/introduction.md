@@ -1,11 +1,10 @@
 # Introduction
 
-With API Trading, traders can communicate with Mizar in the following way
+With API Trading, traders can communicate with Mizar and open/close positions of their strategies directly from their preferred programming language. Additionally, traders can connect their TradingView strategy to Mizar and share it with their followers
 
-* Send signals to open and close positions
-* xx
+Traders will be able to see the performance of their signals with paper trading or to trade directly on their connected exchanges. Furthermore, traders can publish these strategies to the marketplace and get copied by other investors to earn a passive income.
 
-Traders will be able to see the performance of their signals with paper trading or to trade directly on their connecte exchanges. Furthermore, traders can publish these strategies to the marketplace and get copied by other investor to earn a passive income.
+Check out the official API [docs](https://api.mizar.ai/redoc) and connect with the community in [discord](https://discord.gg/gB7ke7NU).
 
 #### 
 
