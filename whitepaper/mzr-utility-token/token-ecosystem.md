@@ -18,11 +18,11 @@ Strategies will open and close positions for investors and each time a trade is 
 
 #### Performance Fees
 
-Investors pay a performance fee on a monthly basis to the algo-trader for developing a profitable strategy. The performance fee is set by the algo-trader and is disclosed to the investor beforehand. A portion of the performance fee is paid to the platform as described[ here](../../platform/fees.md).
+Investors pay a performance fee on a monthly basis to the algo-trader for developing a profitable strategy. The performance fee is set by the algo-trader and is disclosed to the investor beforehand. A portion of the performance fee is paid to the platform as described[ here]().
 
 #### Holding MZR
 
-The investor can hold MZR to receive a discount on the trading fees. Depending on the amount of MZR the investor holds the discount increases. For more information click [here](../../platform/fees.md). 
+The investor can hold MZR to receive a discount on the trading fees. Depending on the amount of MZR the investor holds the discount increases. For more information click [here](). 
 
 ### Algo-Trader
 
@@ -34,7 +34,7 @@ In order to have full access to Mizar's services, algo-traders will need to hold
 
 #### Performance Fees
 
-Investors transfer a portion of their profits to the algo-trader who developed the strategy as described [here](../../platform/fees.md). The performance fee is set at the discretion of the algo-trader.
+Investors transfer a portion of their profits to the algo-trader who developed the strategy as described [here](). The performance fee is set at the discretion of the algo-trader.
 
 #### Leaderboard Rewards
 

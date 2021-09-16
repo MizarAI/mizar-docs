@@ -1,8 +1,12 @@
-# Developing with MizarLabs
+# Interacting with Mizar
 
-These tutorials are written for algo-traders who are interested in building their own strategies with the Mizar repository and deploying them on the platform.
+These tutorials are written for advanced users who are interested in sending their own strategies signals to Mizar.
 
-To get access to data and saving your strategies to the platform users need an API key. Please check out the following tutorial to set up the API key [here](https://app.gitbook.com/@mizarai/s/mizar/~/drafts/-MZDNh95LMo_Ojh0wUgM/introduction/tutorial/mizar-labs-tutorial/how-to-create-api-key).
+Signals can be shared using:
 
-After setting up your API key, please follow this tutorial to build your first strategy and deploy it on the platform [here](https://app.gitbook.com/@mizarai/s/mizar/~/drafts/-MZDNh95LMo_Ojh0wUgM/introduction/tutorial/mizar-labs-tutorial/creating-a-trading-strategy).
+* Directly through the [API](https://api.mizar.ai/redoc)
+* Mizar official python [SDK](https://pypi.org/project/mizar/)
+* Using TradingView webhook
+
+To interact with Mizar you will need an API key. Please check out the following tutorial to set up the API key [here](https://app.gitbook.com/@mizarai/s/mizar/~/drafts/-MZDNh95LMo_Ojh0wUgM/introduction/tutorial/mizar-labs-tutorial/how-to-create-api-key).
 

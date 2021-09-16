@@ -8,7 +8,7 @@ The power of Mizar is to connect investors to quants through algo-trading. Trade
 
 **Fee reduction**
 
-Investors and Algo-Traders who hold a certain amount of **MZR** will receive a reduction in trading fees, for information please click [here](../../platform/fees.md).
+Investors and Algo-Traders who hold a certain amount of **MZR** will receive a reduction in trading fees, for information please click [here]().
 
 **Algo-Traders**
 

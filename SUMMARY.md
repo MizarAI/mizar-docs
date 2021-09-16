@@ -8,13 +8,16 @@
 * [BotLabs](platform/strategy-performance-analytics.md)
 * [TradingLabs](platform/tradinglabs.md)
 * [MizarLabs](platform/mizarlabs.md)
-* [Fees](platform/fees.md)
 * [Community](platform/community.md)
+
+## Fees
+
+* [Fee system](fees/fee-system.md)
 
 ## Tutorials <a id="introduction"></a>
 
-* [Interacting with Mizar](introduction/mizar-labs-tutorial.md)
-* [Self-Hosted Strategies TradingView](introduction/self-hosted-strategies-tradingview.md)
+* [Interacting with Mizar](introduction/mizar-labs-tutorial/README.md)
+  * [Self-Hosted Strategies TradingView](introduction/mizar-labs-tutorial/self-hosted-strategies-tradingview.md)
 * [Self-Hosted Strategies SDK](introduction/how-to-interact-with-mizar-api-through-mizar-sdk.md)
 * [How to create API key](introduction/how-to-create-api-key.md)
 * [DCA Bot SDK](introduction/dca-bot-sdk.md)
