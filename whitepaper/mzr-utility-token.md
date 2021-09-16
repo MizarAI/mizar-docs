@@ -4,7 +4,7 @@ description: How does Mizar allow users to invest in algo-strategies?
 
 # MZR Utility Token
 
-The MZR Utility Token is at the heart of the Mizar ecosystem. Main usage
+The MZR Utility Token is at the heart of the Mizar ecosystem. It will be a mean to interact with the platform, get discounts and earn a passive income.
 
 **Fee reduction**
 
