@@ -6,21 +6,21 @@ description: >-
 
 # Fee system
 
-Mizar wants to open smart trading to everyone. Most of the current trading platforms offer subscription fees which traders have to bear regardless their capital, usage, expertise or performance.
+Mizar wants to open smart trading to everyone. Most of the current trading platforms offer subscription fees that traders have to bear regardless of their capital, usage, expertise, or performance.
 
-Mizar offers to its users an innovative yet simple fee system. Mizar developed a secure custodian wallet system where users can deposit stable coins to be used to pay their fee.
+Mizar offers to its users an innovative yet simple fee system. Mizar developed a secure wallet system where users can deposit stable coins to be used to pay their fees.
 
 Performance and trading fees can be reduced by staking MZR.
 
-At Mizar, there are two different fees mechanisms, depending on which kind of product the users is using.
+At Mizar, there are two different fees mechanisms, depending on the product used.
 
 ## Marketplace - performance fee
 
-Users can share successful strategies and bots via a marketplace and get copied by other investors. In this way traders are rewarded for their innovations while others can benefit from following them.
+Users can share successful strategies and bots via a marketplace and get copied by other investors. In this way, traders are rewarded for their innovations while others can benefit from following them.
 
 Traders are free to propose their own performance fee. The performance fee will be applied to the gross profits calculated over the calendar month.
 
-On top of the performance fee, Mizar is applying a fee of 10% of the gross profits calculated over the calendar month. This fee will be used by Mizar to cover the development of the Mizar platform and infrastructure, to guarantee a reliable system and to reward the team.
+On top of the performance fee, Mizar is applying a fee of 10% of the gross profits calculated over the calendar month. This fee will be used by Mizar to cover the development of the Mizar platform and infrastructure, to guarantee a reliable system, and to reward the team.
 
 The performance fee will be detracted each month from the user deposit.
 
@@ -42,13 +42,13 @@ Users can develop their own bots to automate their trades or simplify their trad
 
 Mizar applies a 0.05% trading fee on each dollar traded. 
 
-To support investors, Mizar gives the first $5,000 traded for free, each month. Trading fees are capped to maximum $100 per month.
+To support investors, Mizar gives the first $5,000 traded for free, each month. Trading fees are capped to a maximum $100 per month.
 
 Example:
 
 **Trader A builds a bot and at the end of August \(from 01.08.21 to 31.08.21\). In total, the bot traded in August $3,000 of volumes. Mizar does not apply any fee to Trader A**
 
-**Trader B  builds 5 bot and at the end of August \(from 01.08.21 to 31.08.21\). In total, the bots traded in August $56,000 of volumes. Mizar applies the following fee:** 
+**Trader B  builds 5 bots and at the end of August \(from 01.08.21 to 31.08.21\). In total, the bots traded in August $56,000 of volumes. Mizar applies the following fee:** 
 
 * **Trading fee calculation = \($56,000 - $5,000\) \* 0.05 = $25.5**
 * **Monthly trading fee = $25.5**
