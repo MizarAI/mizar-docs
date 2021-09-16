@@ -20,6 +20,10 @@ Endpoint: [https://api.mizar.ai/api/v1/trading-view/execute-command](https://api
 }
 ```
 
+{% hint style="info" %}
+size indicates the relative size of the position. If you are sure that the position will bring profit use 1, otherwise scale down the size to reduce risks.
+{% endhint %}
+
 ## Open short position
 
 ```javascript
