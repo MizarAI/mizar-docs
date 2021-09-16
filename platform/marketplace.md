@@ -1,6 +1,6 @@
 ---
 description: >-
-  The place where quants can share algo-strategies with other investors and get
+  The place where traders can share strategies with other investors and get
   rewarded.
 ---
 

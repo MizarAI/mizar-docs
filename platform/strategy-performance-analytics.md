@@ -1,14 +1,22 @@
 ---
-description: How to track your crypto investments.
+description: >-
+  The place where traders of all level can create their own bots without writing
+  a single line of code
 ---
 
-# Strategy Performance Analytics
+# BotLabs
 
-Mizar platform provides to investors and quants pleasant and smart analytical tools. Users will be able to track the back-tested or live performance of the strategies available on the marketplace. 
+Mizar offers to trader of all level professional trading tools to put their cryptos in motion and automate their trades. 
 
-Investors will be also able to track their own performance in a transparent and simple way, looking at open and closed positions, monthly returns, and many other indicators.
+Traders can develop simple or advanced bots, trading multiple pairs on multiple exchanges at the same time, on SPOT or FUTURES markets. The Mizar team developed a low-latency, safe and secure infrastructure to let traders focus on their main need: trade, maximizing profits and minimizing risks. 
 
-Moreover, investors will be able to track their portfolio balance and monitor more exchanges/wallets from one single platform.
+Trading cryptos is Hard and with far greater risk than other markets. Crypto trading is 24/7, time-consuming and requires advanced tech and financial know-how. With Mizar you can develop your own bot, overcome emotions and get advantage from crypto in any market conditions.
 
-![](../.gitbook/assets/screenshot-2021-04-25-at-14.48.02.png)
+With BotLabs, you do not have to be an expert trader or quant. Mizar developed a user-friendly interface where everyone can develop bots simply by a couple of clicks of a mouse.
+
+![](../.gitbook/assets/screenshot-2021-09-16-at-08.49.30.png)
+
+What are you waiting for? Sign-up on Mizar and start to trade!
+
+
 

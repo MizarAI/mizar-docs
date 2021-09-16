@@ -5,9 +5,11 @@
 ## Platform
 
 * [Marketplace](platform/marketplace.md)
-* [Strategy Performance Analytics](platform/strategy-performance-analytics.md)
-* [Community](platform/community.md)
+* [BotLabs](platform/strategy-performance-analytics.md)
+* [TradingLabs](platform/tradinglabs.md)
+* [MizarLabs](platform/mizarlabs.md)
 * [Fees](platform/fees.md)
+* [Community](platform/community.md)
 
 ## Tutorials <a id="introduction"></a>
 
@@ -30,7 +32,6 @@
 
 ## MizarLabs \(coming out soon\) <a id="mizarlabs"></a>
 
-* [Introduction](mizarlabs/mizar-labs-introduction.md)
 * [Data Sources](mizarlabs/data-sources.md)
 * [Model](mizarlabs/model/README.md)
   * [Downsampling with CUSUM Filter](mizarlabs/model/downsampling-with-cusum-filter.md)
