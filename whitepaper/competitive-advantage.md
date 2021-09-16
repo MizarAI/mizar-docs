@@ -14,6 +14,10 @@ Mizar is non-custodian, which means your assets will securely stay in your walle
 
 Mizar is subscription-free, in the sense that users pay rewards only if the strategies they are copying are actually performing. On top of this, Mizar offers to traders of all level to develop their own bots through a user-friendly interface, publish them on the marketplace and get copied.
 
+### What is the difference between Mizar and a bot-trading platform such CryptoHopper?
+
+Mizar developed trading tools for different kind of traders, from beginners to professionals. On one side, users can develop simple bots through a user-friendly interface, connect to Trading View and get signals from there. On the other side, traders can get access to MizarLabs, the open-sourced library developed by the Mizar team, and develop, research, test and deploy advanced trading strategies using Machine Learning modules or complex Machine Learning system. Each of them can then deploy their strategies or bots and pay on usage only or publish them on the marketplace to earn a passive income by being copied.
+
 ### What is the difference between Mizar and an exchange like Binance?
 
 Mizar offers smart trading tools, in the sense that its users can manage multiple accounts from one single place and automate and actively manage their trades and assts. Mizar offers the possibility to simultaneously take profits and stop loss on different positions, divide your investment into smaller pieces and buy the asset at various points over time at different prices, set trailing orders to automatically adjust the closing value of the positions when the price changes and much more

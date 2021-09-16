@@ -4,7 +4,7 @@ description: How does Mizar allow users to invest in algo-strategies?
 
 # MZR Utility Token
 
-The power of Mizar is to connect investors to quants through algo-trading. Traders will be able to mirror algorithmic trading strategies of quants through a marketplace by using Mizar's utility token, **MZR**, as a way to reward algo-traders and to maintain the trading infrastructure of Mizar. 
+Traders will be able to mirror algorithmic trading strategies of quants through a marketplace by using Mizar's utility token, **MZR**, as a way to reward algo-traders and to maintain the trading infrastructure of Mizar. 
 
 **Fee reduction**
 
