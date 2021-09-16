@@ -7,8 +7,7 @@
 * [Marketplace](platform/marketplace.md)
 * [BotLabs](platform/strategy-performance-analytics.md)
 * [TradingLabs](platform/tradinglabs.md)
-* [MizarLabs](platform/mizarlabs.md)
-* [Community](platform/community.md)
+* [MizarLabs \(COMING SOON\)](platform/mizarlabs.md)
 
 ## Fees
 
@@ -16,15 +15,15 @@
 
 ## Tutorials <a id="introduction"></a>
 
+* [Using the Mizar Platform](introduction/marketplace-tutorial/README.md)
+  * [Connect Your Exchange](introduction/marketplace-tutorial/connect-exchange.md)
+  * [Strategy Metrics](introduction/marketplace-tutorial/what-are-the-strategies-metrics.md)
+  * [Allocate Capital](introduction/marketplace-tutorial/allocate-capital.md)
 * [Interacting with Mizar](introduction/mizar-labs-tutorial/README.md)
   * [Self-Hosted Strategies TradingView](introduction/mizar-labs-tutorial/self-hosted-strategies-tradingview.md)
 * [Self-Hosted Strategies SDK](introduction/how-to-interact-with-mizar-api-through-mizar-sdk.md)
 * [How to create API key](introduction/how-to-create-api-key.md)
 * [DCA Bot SDK](introduction/dca-bot-sdk.md)
-* [Using the Marketplace](introduction/marketplace-tutorial/README.md)
-  * [Connect Your Exchange](introduction/marketplace-tutorial/connect-exchange.md)
-  * [Strategy Metrics](introduction/marketplace-tutorial/what-are-the-strategies-metrics.md)
-  * [Allocate Capital](introduction/marketplace-tutorial/allocate-capital.md)
 
 ## DCA Bots
 
@@ -33,7 +32,7 @@
 * [Evaluate DCA Bot Performance](dca-bots/evaluate-dca-bot-performance.md)
 * [Monitor and Manage Active Positions](dca-bots/monitor-and-manage-active-positions.md)
 
-## MizarLabs \(coming out soon\) <a id="mizarlabs"></a>
+## MizarLabs \(COMING SOON\) <a id="mizarlabs"></a>
 
 * [Data Sources](mizarlabs/data-sources.md)
 * [Model](mizarlabs/model/README.md)

@@ -12,17 +12,28 @@ To connect to Mizar, follow these steps:
 Go to the Exchange section.
 {% endhint %}
 
-![](../../.gitbook/assets/screenshot-2021-03-20-at-12.29.57.png)
+![](../../.gitbook/assets/screenshot-2021-09-16-at-11.41.28.png)
 
 {% hint style="info" %}
-Select the exchange, insert your API private and public keys and save. 
+Select your favourite exchange, insert your API keys and connect. 
 {% endhint %}
 
-![](../../.gitbook/assets/screenshot-2021-03-20-at-12.37.11.png)
+![](../../.gitbook/assets/screenshot-2021-09-16-at-11.43.54.png)
 
 {% hint style="success" %}
 Done! You are now connected to Mizar.
 {% endhint %}
 
-In the future, Mizar will offer the opportunity to users to use their personal private wallets and trade on Decentralized Exchanges through Smart Contracts.
+## Exchanges Available
+
+| Exchange | SPOT Market | FUTURES Market |
+| :--- | :--- | :--- |
+| Binance | ✓ | ✓ |
+| KuCoin | ✓ | COMING SOON |
+| FTX | ✓ | COMING SOON |
+| Okex | ✓ | COMING SOON |
+| BitGet | ✓ | COMING SOON |
+| BitFinex | COMING SOON | COMING SOON |
+| Coinbase | COMING SOON | COMING SOON |
+| Huobi | COMING SOON | COMING SOON |
 
