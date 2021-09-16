@@ -21,10 +21,10 @@
   * [BotLabs](introduction/marketplace-tutorial/botlabs.md)
   * [Performance Metrics](introduction/marketplace-tutorial/what-are-the-strategies-metrics.md)
 * [Interacting with Mizar](introduction/mizar-labs-tutorial/README.md)
+  * [How to create API key](introduction/mizar-labs-tutorial/how-to-create-api-key.md)
   * [Self-Hosted Strategies TradingView](introduction/mizar-labs-tutorial/self-hosted-strategies-tradingview.md)
-* [Self-Hosted Strategies SDK](introduction/how-to-interact-with-mizar-api-through-mizar-sdk.md)
-* [How to create API key](introduction/how-to-create-api-key.md)
-* [DCA Bot SDK](introduction/dca-bot-sdk.md)
+  * [Self-Hosted Strategies SDK](introduction/mizar-labs-tutorial/how-to-interact-with-mizar-api-through-mizar-sdk.md)
+  * [DCA Bot SDK](introduction/mizar-labs-tutorial/dca-bot-sdk.md)
 
 ## DCA Bots
 
