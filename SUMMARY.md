@@ -17,8 +17,8 @@
 
 * [Using the Mizar Platform](introduction/marketplace-tutorial/README.md)
   * [Connect Your Exchange](introduction/marketplace-tutorial/connect-exchange.md)
-  * [Strategy Metrics](introduction/marketplace-tutorial/what-are-the-strategies-metrics.md)
   * [Allocate Capital](introduction/marketplace-tutorial/allocate-capital.md)
+  * [Strategy Metrics](introduction/marketplace-tutorial/what-are-the-strategies-metrics.md)
 * [Interacting with Mizar](introduction/mizar-labs-tutorial/README.md)
   * [Self-Hosted Strategies TradingView](introduction/mizar-labs-tutorial/self-hosted-strategies-tradingview.md)
 * [Self-Hosted Strategies SDK](introduction/how-to-interact-with-mizar-api-through-mizar-sdk.md)

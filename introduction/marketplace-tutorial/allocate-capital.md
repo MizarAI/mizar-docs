@@ -4,7 +4,7 @@ description: How to invest in algo-trading strategies?
 
 # Allocate Capital
 
-Mizar offers the possibility for quants and investors to come together to invest in algorithmic trading strategies. This is achieved through Mizar's marketplace, a place where investors can search and compare algo-trading strategies and allocate some capital to mirror the strategies.
+Mizar offers the possibility for traders and investors to come together to invest in common trading strategies. This is achieved through Mizar's marketplace, a place where investors can search and compare trading strategies and allocate some capital to mirror the strategy performance.
 
 To allocate some capital, follow these steps:
 
@@ -12,13 +12,13 @@ To allocate some capital, follow these steps:
 Visit the marketplace and select your favourite strategy.
 {% endhint %}
 
-![NB: strategies/strategies performances might change within the time](../../.gitbook/assets/screenshot-2021-03-20-at-13.10.53.png)
+![](../../.gitbook/assets/screenshot-2021-09-16-at-11.52.49.png)
 
 {% hint style="info" %}
-Associate some capital to the strategy. In order to do that, select an amount of quote and base asset and define the maximum trade size.
+Associate some capital to the strategy. In order to do that, select an amount of assets you want to trade.
 {% endhint %}
 
-![](../../.gitbook/assets/screenshot-2021-03-20-at-13.20.53.png)
+![](../../.gitbook/assets/screenshot-2021-09-16-at-11.55.33.png)
 
 {% hint style="info" %}
 Trade.
