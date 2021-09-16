@@ -20,6 +20,7 @@
   * [Marketplace](introduction/marketplace-tutorial/allocate-capital.md)
   * [BotLabs](introduction/marketplace-tutorial/botlabs.md)
   * [Performance Metrics](introduction/marketplace-tutorial/what-are-the-strategies-metrics.md)
+  * [Wallet](introduction/marketplace-tutorial/wallet.md)
 * [Interacting with Mizar](introduction/mizar-labs-tutorial/README.md)
   * [How to create API key](introduction/mizar-labs-tutorial/how-to-create-api-key.md)
   * [Self-Hosted Strategies TradingView](introduction/mizar-labs-tutorial/self-hosted-strategies-tradingview.md)
