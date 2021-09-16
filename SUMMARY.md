@@ -2,18 +2,18 @@
 
 * [Mizar](README.md)
 
-## Platform
+## The Product <a id="product"></a>
 
-* [Marketplace](platform/marketplace.md)
-* [BotLabs](platform/strategy-performance-analytics.md)
-* [TradingLabs](platform/tradinglabs.md)
-* [MizarLabs \(COMING SOON\)](platform/mizarlabs.md)
+* [Marketplace](product/marketplace.md)
+* [BotLabs](product/strategy-performance-analytics.md)
+* [TradingLabs](product/tradinglabs.md)
+* [MizarLabs \(COMING SOON\)](product/mizarlabs.md)
 
 ## Fees
 
 * [Fee system](fees/fee-system.md)
 
-## Tutorials <a id="introduction"></a>
+## The Platform - tutorials <a id="introduction"></a>
 
 * [Connect Your Exchange](introduction/connect-exchange.md)
 * [Marketplace](introduction/allocate-capital.md)
