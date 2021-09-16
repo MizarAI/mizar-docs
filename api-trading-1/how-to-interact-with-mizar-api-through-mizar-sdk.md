@@ -48,7 +48,7 @@ The strategy creation returns a dictionary with the following format
 ```
 
 {% hint style="info" %}
- strategy\_id is an unique identifier for your strategy which is used to open and close positions.
+ strategy\_id is a unique identifier for your strategy which is used to open and close positions.
 {% endhint %}
 
 ## Open a position
