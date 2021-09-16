@@ -15,17 +15,11 @@
 
 ## Tutorials <a id="introduction"></a>
 
-* [Using the Mizar Platform](introduction/marketplace-tutorial/README.md)
-  * [Connect Your Exchange](introduction/marketplace-tutorial/connect-exchange.md)
-  * [Marketplace](introduction/marketplace-tutorial/allocate-capital.md)
-  * [BotLabs](introduction/marketplace-tutorial/botlabs.md)
-  * [Performance Metrics](introduction/marketplace-tutorial/what-are-the-strategies-metrics.md)
-  * [Wallet](introduction/marketplace-tutorial/wallet.md)
-* [Interacting with Mizar](introduction/mizar-labs-tutorial/README.md)
-  * [How to create API key](introduction/mizar-labs-tutorial/how-to-create-api-key.md)
-  * [Self-Hosted Strategies TradingView](introduction/mizar-labs-tutorial/self-hosted-strategies-tradingview.md)
-  * [Self-Hosted Strategies SDK](introduction/mizar-labs-tutorial/how-to-interact-with-mizar-api-through-mizar-sdk.md)
-  * [DCA Bot SDK](introduction/mizar-labs-tutorial/dca-bot-sdk.md)
+* [Connect Your Exchange](introduction/connect-exchange.md)
+* [Marketplace](introduction/allocate-capital.md)
+* [BotLabs](introduction/botlabs.md)
+* [Performance Metrics](introduction/what-are-the-strategies-metrics.md)
+* [Wallet](introduction/wallet.md)
 
 ## DCA Bots
 
@@ -33,6 +27,15 @@
 * [Create a New DCA Bot](dca-bots/create-a-new-dca-bot.md)
 * [Evaluate DCA Bot Performance](dca-bots/evaluate-dca-bot-performance.md)
 * [Monitor and Manage Active Positions](dca-bots/monitor-and-manage-active-positions.md)
+* [DCA Bot SDK](dca-bots/dca-bot-sdk.md)
+
+## API Trading <a id="api-trading-1"></a>
+
+* [Introduction](api-trading-1/introduction.md)
+* [How to create API key](api-trading-1/how-to-create-api-key.md)
+* [Create strategy](api-trading-1/create-strategy.md)
+* [API Trading - TradingView](api-trading-1/self-hosted-strategies-tradingview.md)
+* [API Trading SDK](api-trading-1/how-to-interact-with-mizar-api-through-mizar-sdk.md)
 
 ## MizarLabs \(COMING SOON\) <a id="mizarlabs"></a>
 
