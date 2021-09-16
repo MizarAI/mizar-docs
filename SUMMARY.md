@@ -61,7 +61,6 @@
 * [The Current State of Financial Markets and Quantitative Trading](whitepaper/current-state-of-financial-markets-and-quantitative-trading.md)
 * [Vision](whitepaper/vision.md)
 * [Competitive Advantage](whitepaper/competitive-advantage.md)
-* [MZR Utility Token](whitepaper/mzr-utility-token/README.md)
-  * [Ecosystem](whitepaper/mzr-utility-token/token-ecosystem.md)
+* [MZR Utility Token](whitepaper/mzr-utility-token.md)
 * [Roadmap](whitepaper/roadmap.md)
 
