@@ -16,7 +16,7 @@ Users that stake their MZR tokens get exclusive access to premium features such 
 
 **Referral**
 
-Users can invite other traders through refferal code and get part of their trading and performance fees. Users that stake their MZR can increase the share of referral fees they can get out of it.
+Users can invite other traders through referral code and get part of their trading and performance fees. Users that stake their MZR can increase the share of referral fees they can get out of it.
 
 **Yield Farming**
 
