@@ -6,7 +6,7 @@ description: >-
 
 # Marketplace
 
-Mizar offers a marketplace where traders and investors can come together to invest in the most performing trading strategies. After being authenticated through Twitter, traders will be able to publish their trading strategies and share them with other investors in order to get rewarded based on the monthly performance. 
+Mizar offers a marketplace where traders and investors can come together to invest in the most performing trading strategies. Traders can publish their trading strategies and share them with other investors in order to earn a passive income based on their monthly performance.
 
 ![](../.gitbook/assets/screenshot-2021-09-16-at-08.32.33.png)
 
