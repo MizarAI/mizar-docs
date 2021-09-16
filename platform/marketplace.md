@@ -10,7 +10,7 @@ Mizar offers on its platform a marketplace where traders and investors can come 
 
 ![](../.gitbook/assets/screenshot-2021-09-16-at-08.32.33.png)
 
-Investors can search for trading strategies published by traders and decide whether they wish to invest their capital into that strategy. Investors will be able to compare multiple strategies with each other based on live performance, trader's reputation, and performance fees and other indicators. 
+Investors can search for trading strategies published by traders and decide whether they wish to invest their capital into that strategy. Investors will be able to compare multiple strategies with each other based on live performance, trader's reputation, trader fee and other indicators. 
 
 ![](../.gitbook/assets/screenshot-2021-09-16-at-08.33.56.png)
 
