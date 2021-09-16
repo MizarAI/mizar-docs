@@ -1,16 +1,22 @@
 ---
-description: Why should you choose Mizar?
+description: Why should you use Mizar?
 ---
 
 # Competitive Advantage
 
-Algo-trading in cryptocurrency markets is becoming more and more popular. Promising and successful projects have been born in the last years, showing good traction and new customer needs. At the same time, the rise of new social or mirror trading platforms is showing a new efficient and affordable way of investing for retail traders. 
+Mizar offers to all kind of investors subscription-free trading tools to put their cryptos in motion. 
 
-The algo-trading industry is rapidly evolving but is not open to everybody yet. Even though an important amount of cryptocurrencies volume is traded under algorithms, the algo-trading industry is still consolidating into few major players. Small algo-traders, freelancers and private algo-trading companies still lack affordable tools to develop, backtest and deploy algo-trading strategies. Mizar´s goal is to solve this problem, offering to quants innovative and cutting hedge algo-trading financial services through an innovative platform. 
+### What is the difference between Mizar and a social-trading platform such eToro?
 
-Minor algo-trading players also have difficulties attracting capital from investors, since the market is still strongly centralised and big players take the majority of it. Social and mirror trading has shown to be a possible answer to this problem. The most important social trading platforms in the cryptocurrency markets are performing incredibly well and this alternative way of investing has attracted many retail investors. However, most of the current platforms run still in a centralized fashion and most of them are limited to simple trading bots instead of advanced algo-trading strategies. Mizar aims to offer quants the possibility to [research](), [test](../mizarlabs/backtesting.md) and [deploy](../mizarlabs/trading-strategy-deployment.md) performing algo-trading strategies, leverage their skills, and attract capital from other investors to get [rewarded](mzr-utility-token/token-ecosystem.md).
+Mizar is non-custodian, that means your assets will securely stay in your wallet. You can connect to a wide range of exchanges through API and manage your cryptos on Mizar. Mizar is developing a wide community of traders and investors which are specialized in the cryptos markets. Most of these traders have developed systems and algorithms which support them automate their trades and execute thousands of trades per day. With Mizar you will have the chance to allocated some of your assets on their strategies and perform as they do.
 
-DeFi is the new generation form of finance. Retail investors can easily trade and swap tokens at a very affordable price in a matter of seconds. In this industry, investors are constantly looking for new ways of investing. Centralized trading bots platforms have become very popular, as well as passive decentralized assets management or platform that allow users to optimize their earnings on crypto assets through lending and trading services. The panorama of active portfolio management and decentralised hedge funds is still in its infancy. Mizar´s scope is to build the main [algo-trading strategy marketplace](../product/marketplace.md) for cryptocurrencies, allowing investors to automate their trades and maximize performance while maintaining custody over their funds.
+### What is the difference between Mizar and a social-trading platform such StackedInvest?
+
+Mizar is subscription-free, in the sense that users pay rewards only if the strategies they are copying are actually performing. On top of this, Mizar offers to traders of all level to develop their own bots through a user-friendly interface, publish them on the marketplace and get copied.
+
+### What is the difference between Mizar and an exchange like Binance?
+
+Mizar offers smart trading tools, in the sense that its users can manage multiple accounts from one single place and automate and actively manage their trades and assts. Mizar offers the possibility to simultaneously take profits and stop loss on different positions, divide your investment into smaller pieces and buy the asset at various points over time at different prices, set trailing orders to automatically adjust the closing value of the positions when the price changes and much more
 
 ### 
 
