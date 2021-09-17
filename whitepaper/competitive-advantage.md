@@ -4,7 +4,7 @@ description: Why should you use Mizar?
 
 # Competitive Advantage
 
-Mizar offers subscription-free trading tools to put their cryptos in motion. 
+Mizar offers subscription-free trading tools and a marketplace to put your cryptos in motion. 
 
 ### What is the difference between Mizar and a social-trading platform such eToro?
 
