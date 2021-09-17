@@ -6,7 +6,7 @@ description: >-
 
 # Wallet
 
-Mizar is subscription-free, it means you will never be charged monthly or fixed fee. Mizar developed a safe and secure wallet system which you can use to pay fees, rewarded traders for copying their performance and get rewarded to be copied.
+Mizar is subscription-free, it means you will never be charged monthly or fixed fee. Mizar developed a safe and secure wallet system which you can use to pay fees, reward traders for copying their performance and get rewarded by being copied.
 
 ![](../.gitbook/assets/screenshot-2021-09-16-at-12.20.17.png)
 
