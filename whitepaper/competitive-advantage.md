@@ -8,7 +8,7 @@ Mizar offers subscription-free trading tools and a marketplace to put your crypt
 
 ### What is the difference between Mizar and a social-trading platform such eToro?
 
-Mizar is non-custodian, which means your assets will securely stay in your wallet. You can connect to a wide range of exchanges through API and manage your cryptos on Mizar. Mizar is developing a wide community of traders and investors which are specialized in the cryptos markets. Most of these traders have developed systems and algorithms which support them automate their trades and execute thousands of trades per day. With Mizar you will have the chance to allocated some of your assets on their strategies and perform as they do.
+Mizar is non-custodian, which means your assets will securely stay in your wallet. You can connect to a wide range of exchanges through API and manage your cryptos on Mizar. Mizar is developing a wide community of crypto traders and investors. Most of these traders have developed systems and algorithms which support them automate their trades and execute thousands of trades per day. With Mizar you will have the chance to allocated some of your assets on their strategies and perform as they do.
 
 ### What is the difference between Mizar and a social-trading platform such StackedInvest?
 
