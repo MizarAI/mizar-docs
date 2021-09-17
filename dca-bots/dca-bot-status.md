@@ -6,7 +6,7 @@ If your status looks like the snapshot below, it means everything is running smo
 
 ![](../.gitbook/assets/screenshot-2021-09-17-at-08.47.25.png)
 
-If your status looks like the snapshot below, it means that some problem occurred.
+If your status looks like the snapshot below, it means that a problem occurred.
 
 ![](../.gitbook/assets/screenshot-2021-09-17-at-08.49.19.png)
 
