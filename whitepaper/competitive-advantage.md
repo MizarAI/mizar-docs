@@ -16,7 +16,7 @@ Mizar is subscription-free, in the sense that users pay only if the strategies t
 
 ### What is the difference between Mizar and a bot-trading platform such CryptoHopper?
 
-Mizar developed trading tools for different kind of traders, from beginners to professionals. On one side, users can develop simple bots through a user-friendly interface, connect to Trading View or other API systems to open orders based on technical signals. Users can also manage and reduce risk by trading with DCA bots.  On the other side, traders can get access to MizarLabs, the open-sourced library developed by the Mizar team, and develop, research, test and deploy advanced trading strategies using Machine Learning modules or complex Machine Learning system. Each of them can then deploy their strategies or bots and pay on usage only or publish them on the marketplace to earn a passive income by being copied.
+Mizar developed trading tools for different kind of traders, from beginners to professionals. On one side, users can develop simple bots through a user-friendly interface, connect to Trading View or other API systems to open orders based on technical signals. Users can also manage and reduce risk by trading with DCA bots.  On the other side, traders can get access to MizarLabs, the open-sourced library developed by the Mizar team to develop, research and test trading strategies using Machine Learning modules or more advanced technical indicators. Each of them can then deploy their strategies or bots or publish them on the marketplace to earn a passive income by being copied.
 
 ### What is the difference between Mizar and an exchange like Binance?
 
