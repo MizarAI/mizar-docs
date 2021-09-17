@@ -1,4 +1,4 @@
-# DCA Bot Statuses
+# DCA Bot Status
 
 Mizar is constantly checking that your DCA bot is running in a healthy mode. If there is any issue, you will be informed on the performance page of the running bot.
 
