@@ -12,7 +12,7 @@ Mizar is non-custodian, which means your assets will securely stay in your walle
 
 ### What is the difference between Mizar and a social-trading platform such StackedInvest?
 
-Mizar is subscription-free, in the sense that users pay only if the strategies they are copying are actually performing. On top of this, Mizar offers to traders of all level to develop their own bots through a user-friendly interface, publish them on the marketplace and get copied.
+Mizar is subscription-free, in the sense that users pay only if the strategies they are copying are actually performing. On top of this, Mizar offers to traders of all level the opportunity to develop their own bots through a user-friendly interface, publish them on the marketplace and get copied.
 
 ### What is the difference between Mizar and a bot-trading platform such CryptoHopper?
 
