@@ -4,8 +4,6 @@ description: What do all the metrics mean on the strategy page?
 
 # Performance Metrics
 
-Investors can subscribe to algo-trading strategies on the marketplace and evaluate them based on the metrics from the backtest, which assesses how the strategy would have performed based on the history of the pair it is trading. 
-
 There are multiple metrics to look at to help the investor make an informed decision on whether he or she wants to invest in the strategy \(see Figure 1\). This tutorial will explain what these metrics mean. 
 
 ![](../.gitbook/assets/screenshot-2021-09-16-at-12.05.44.png)
@@ -14,7 +12,7 @@ There are multiple metrics to look at to help the investor make an informed deci
 * **Trading Pairs:** The pairs which the strategy is able to trade.
 * **Market:** The market where the strategy is able to trade.
 * **Side:** The side defines which kind of positions the strategy will open. If the strategy is LONG, it will open long \(buy\) positions only. If the strategy is SHORT, it will open short \(sell\) positions only. If the strategy is LONG/SHORT, it can open long or short positions.
-* **Trader fee**: it is the performance fee which has to be paid to the trader at the end of the month. The Mizar fee \(10%\) is **NOT** included in this fee. That means the total fee will be the trader fee plus 10%.
+* **Trader fee**: it is the performance fee which has to be paid to the trader at the end of the month. The Mizar fee \(10%\) is **NOT** included in this fee. That means the total fee will be the trader fee plus 10%. Check [Fee system](../fees/fee-system.md) for more info.
 * **Returns:** The gross profit and loss \(i.e. before fees deductions\) shows the amount of gross profits or loss that has been performed from the strategy since its start.
 * **Days of Activities:** The number of days since the strategy is actively trading.
 * **Trades per Week:** The average number of trades made per week.
