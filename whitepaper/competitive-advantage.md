@@ -20,7 +20,7 @@ Mizar developed trading tools for different kind of traders, from beginners to p
 
 ### What is the difference between Mizar and an exchange like Binance?
 
-Mizar offers smart trading tools, in the sense that its users can manage multiple accounts from one single place and actively manage their trades and assets. Mizar offers the possibility to simultaneously take profits and stop loss on different positions, divide your investment into smaller pieces and buy the asset at various points over time at different prices, set trailing orders to automatically adjust the closing value of the positions when the price changes and much more
+Mizar offers smart trading tools, in the sense that its users can manage multiple accounts from one single place and actively manage their trades and assets. Mizar offers the possibility to simultaneously take profits and stop loss on different positions, divide your investment into smaller pieces and buy the asset at various points over time at different prices, set trailing orders to automatically adjust the closing value of the positions when the price changes and much more.
 
 ### 
 
