@@ -71,7 +71,7 @@ In the pairs section you can select which pairs to trade. You have to select at 
 
 ### Take Profits
 
-In the take profits section, you can set the the take profit conditions.
+In the take profits section, you can set the take profit conditions.
 
 ![](../.gitbook/assets/screenshot-2021-09-15-at-13.19.18.png)
 
