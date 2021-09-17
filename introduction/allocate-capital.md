@@ -4,7 +4,7 @@ description: How to search and invest in trading strategies developed by other t
 
 # Marketplace
 
-Mizar offers the possibility for traders and investors to come together to invest in common trading strategies. This is achieved through Mizar marketplace, a place where investors can search and compare trading strategies and allocate some capital to mirror the strategy performance.
+Mizar offers the possibility for traders and investors to come together to invest in common trading strategies. This is achieved through the Mizar marketplace, a place where investors can search and compare trading strategies and allocate some capital to mirror the strategy performance.
 
 To allocate some capital, follow these steps:
 
@@ -25,6 +25,6 @@ Trade.
 {% endhint %}
 
 {% hint style="success" %}
-Done! You are now mirroring an algo-trading strategy developed by another investor. You will be able to follow your performance and trades in the Strategies section.
+Done! You are now mirroring an algo-trading strategy developed by another investor. You will be able to follow your performance and trades in the Performance section.
 {% endhint %}
 
