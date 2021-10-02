@@ -6,6 +6,10 @@ description: >-
 
 # Fee system
 
+{% hint style="info" %}
+NOTE: This section is under revision and will be updated in the near future.
+{% endhint %}
+
 Mizar wants to open smart trading to everyone. Most of the current trading platforms offer subscription fees that traders have to bear regardless of their capital, usage, expertise, or performance.
 
 Mizar offers to its users an innovative yet simple fee system. Mizar developed a secure wallet system where users can deposit and withdraw stable coins to be used to pay their fees and reward other traders.
