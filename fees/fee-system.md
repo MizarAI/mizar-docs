@@ -7,7 +7,7 @@ description: >-
 # Fee system
 
 {% hint style="info" %}
-NOTE: This section is under revision and will be updated in the near future.
+**NOTE: This section is under revision and will be updated in the near future.**
 {% endhint %}
 
 Mizar wants to open smart trading to everyone. Most of the current trading platforms offer subscription fees that traders have to bear regardless of their capital, usage, expertise, or performance.
