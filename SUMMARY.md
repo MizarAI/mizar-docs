@@ -28,6 +28,7 @@
 * [Evaluate DCA Bot Performance](dca-bots/evaluate-dca-bot-performance.md)
 * [Monitor and Manage Active Positions](dca-bots/monitor-and-manage-active-positions.md)
 * [DCA Bot SDK](dca-bots/dca-bot-sdk.md)
+* [DCA Bot - TradingView](dca-bots/dca-bot-tradingview.md)
 * [DCA Bot Status](dca-bots/dca-bot-status.md)
 
 ## API Trading <a id="api-trading-1"></a>
