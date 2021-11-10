@@ -11,12 +11,12 @@ Mizar wants to open smart trading to everyone. Most of the current trading platf
 Mizar offers to its users an innovative yet simple fee system. Mizar developed a secure wallet system where users can deposit and withdraw stable coins to be used to pay their fees and reward other traders.
 
 {% hint style="info" %}
-At Mizar, there are two different fees mechanisms. Fees can be reduce by holding MZR in the Mizar wallet. Check [here](star-program-fees-reduction.md) for more information.
+At Mizar, there are two different fee mechanisms. Fees can be reduced by holding MZR in the Mizar wallet. Check [here](star-program-fees-reduction.md) for more information.
 {% endhint %}
 
 ## Copy-trade - performance fee
 
-Users can share successful strategies and bots via a marketplace and get copied by other investors. In this way, traders are rewarded for their innovations while others can benefit from following them.
+Users can share successful strategies and bots via a marketplace and get copied by other investors. In this way, traders are rewarded for their performance, while others can benefit from following them.
 
 When copying another trader, the investor will have to pay a performance fee based on the monthly gross profits.
 
@@ -26,7 +26,7 @@ Traders are free to propose their own performance fee. The performance fee will 
 Minimum performance fee is 5%
 {% endhint %}
 
-The performance fee will be detracted each month from the user deposit, depending how much profits have been made over the month.
+The performance fee will be subtracted each month from the user deposit, depending how much profits have been made over the month.
 
 Example:
 
