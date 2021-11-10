@@ -2,18 +2,19 @@
 
 * [Mizar](README.md)
 
-## The Product <a id="product"></a>
+## The Product <a href="product" id="product"></a>
 
 * [Marketplace](product/marketplace.md)
 * [BotLabs](product/strategy-performance-analytics.md)
 * [TradingLabs](product/tradinglabs.md)
-* [MizarLabs \(COMING SOON\)](product/mizarlabs.md)
+* [MizarLabs (COMING SOON)](product/mizarlabs.md)
 
 ## Fees
 
 * [Fee system](fees/fee-system.md)
+* [STAR Program - Fees Reduction](fees/star-program-fees-reduction.md)
 
-## The Platform - tutorials <a id="introduction"></a>
+## The Platform - tutorials <a href="introduction" id="introduction"></a>
 
 * [Connect Your Exchange](introduction/connect-exchange.md)
 * [Marketplace](introduction/allocate-capital.md)
@@ -31,7 +32,7 @@
 * [DCA Bot - TradingView](dca-bots/dca-bot-tradingview.md)
 * [DCA Bot Status](dca-bots/dca-bot-status.md)
 
-## API Trading <a id="api-trading-1"></a>
+## API Trading <a href="api-trading-1" id="api-trading-1"></a>
 
 * [Introduction](api-trading-1/introduction.md)
 * [How to create API key](api-trading-1/how-to-create-api-key.md)
@@ -39,7 +40,7 @@
 * [API Trading - TradingView](api-trading-1/self-hosted-strategies-tradingview.md)
 * [API Trading SDK](api-trading-1/how-to-interact-with-mizar-api-through-mizar-sdk.md)
 
-## MizarLabs \(COMING SOON\) <a id="mizarlabs"></a>
+## MizarLabs (COMING SOON) <a href="mizarlabs" id="mizarlabs"></a>
 
 * [Data Sources](mizarlabs/data-sources.md)
 * [Model](mizarlabs/model/README.md)
@@ -65,4 +66,3 @@
 * [Competitive Advantage](whitepaper/competitive-advantage.md)
 * [MZR Utility Token](whitepaper/mzr-utility-token.md)
 * [Roadmap](whitepaper/roadmap.md)
-

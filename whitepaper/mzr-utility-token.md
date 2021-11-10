@@ -8,11 +8,11 @@ The MZR Utility Token is at the heart of the Mizar ecosystem. It will be a mean 
 
 **Fee reduction**
 
-Investors and traders who hold a certain amount of MZR will receive a reduction in their performance and trading fees.
+Investors and traders who hold a certain amount of MZR will receive a reduction in their performance and trading fees. Check [here](../fees/star-program-fees-reduction.md) for more information.
 
 **Features**
 
-Users that stake their MZR tokens get exclusive access to premium features such as trading signals from Telegram or more alternative features such as NFT and DEX tools ****\(under development\).
+Users that stake their MZR tokens get exclusive access to premium features such as trading signals from Telegram or more alternative features such as NFT and DEX tools** **(under development).
 
 **Referral**
 
@@ -20,9 +20,7 @@ Users can invite other traders through referral code and get part of their tradi
 
 **Yield Farming**
 
-Users can stake MZR in the **STAR Pool** \(under development\) and earn a passive income by getting staking rewards.
+Users can stake MZR in the **STAR Pool** (under development) and earn a passive income by getting staking rewards.
 
-\*\*\*\*
-
-
+****
 
