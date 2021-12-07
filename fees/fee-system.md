@@ -30,7 +30,7 @@ The performance fee will be subtracted each month from the user deposit, dependi
 
 Example:
 
-**Trader A starts to follow Trader B and copy-trade. The performance fee applied from Trader B is 15%. During the month of August (from 01.08.21 to 31.08.21), Trader A performs a total gross profit (i.e. no fee exchange applied yet) of 100USDT (\~$100).  **
+**Trader A starts to follow Trader B and copy-trade. The performance fee applied from Trader B is 15%. During the month of August (from 01.08.21 to 31.08.21), Trader A performs a total gross profit (i.e. no fee exchange applied yet) of 100USDT (\~$100).** &#x20;
 
 **Trader A has to pay the following performance fees:**
 
@@ -53,11 +53,11 @@ Example:
 
 **Trader A builds a bot and at the end of August. In total, the bot traded in August (from 01.08.21 to 31.08.21) $3,000 of volumes. Mizar does not apply any fee to Trader A in August.**
 
-**Trader B  has 5 active bots in August. In total, the bots traded in August (from 01.08.21 to 31.08.21) $56,000 of volumes. Mizar applies the following fee: **
+**Trader B  has 5 active bots in August. In total, the bots traded in August (from 01.08.21 to 31.08.21) $56,000 of volumes. Mizar applies the following fee:**&#x20;
 
 * **Volumes fee = ($56,000 - $10,000) \* 0.06% = $27.6**
 
-**Trader C  has 15 active bots in August. In total, the bots traded in August (from 01.08.21 to 31.08.21) $1,000,000 of volumes. Mizar applies the following fee: **
+**Trader C  has 15 active bots in August. In total, the bots traded in August (from 01.08.21 to 31.08.21) $1,000,000 of volumes. Mizar applies the following fee:**&#x20;
 
 * **Volume fee = ($1,000,000 - $10,000) \* 0.06% = $594**
 

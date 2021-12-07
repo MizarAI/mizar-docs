@@ -9,7 +9,7 @@ Structural break tests broadly consist of two categories:
 
 **CUSUM Tests**
 
-The Chu-Stinchcombe-White CUSUM test on levels was developed by Homm and Breitung \(2012\) ****to test departures from the log price $$y_t$$relative to the log price $$y_{n}$$where $$n>t$$.
+The Chu-Stinchcombe-White CUSUM test on levels was developed by Homm and Breitung (2012) **** to test departures from the log price $$y_t$$relative to the log price $$y_{n}$$where $$n>t$$.
 
 $$
 S_{n, t} = (y_t - y_n) (\hat{\sigma_t}\sqrt{t-n})^{-1} \sim \mathcal{N}(0,1) \\
@@ -26,7 +26,7 @@ To prevent choosing the reference level $$y_n$$arbitrarily, we calculate the tes
 
 **Explosiveness Tests**
 
-The Chow-Type Dickey-Fuller \(SDFC\) test was developed by Gregory Chow \(1960\). Consider an autoregressive process
+The Chow-Type Dickey-Fuller (SDFC) test was developed by Gregory Chow (1960). Consider an autoregressive process
 
 $$
 y_t = \rho y_{t-1} + \epsilon_t
@@ -48,7 +48,7 @@ $$
 \Delta y_t = \delta y_{t-1} D_t[\tau^*] + \epsilon_t
 $$
 
- where the dummy variable $$D_t[\tau^*]$$is 0 when $$t < \tau^*T$$and 1 when $$t\ge\tau^*T$$, under the null hypothesis $$H_0: \delta = 0$$and under the alternative hypothesis $$H_1: \delta > 1$$, we define the following test statistic 
+&#x20;where the dummy variable $$D_t[\tau^*]$$is 0 when $$t < \tau^*T$$and 1 when $$t\ge\tau^*T$$, under the null hypothesis $$H_0: \delta = 0$$and under the alternative hypothesis $$H_1: \delta > 1$$, we define the following test statistic&#x20;
 
 $$
 DFC_{\tau^*} = \dfrac{\hat{\delta}}{\hat{\sigma}_{\delta}}
@@ -64,7 +64,7 @@ $$
 
 where we take $$\tau_0$$sufficiently large, such that the specification always has sufficient data to fit with at the start and the end. The main drawback of this test is that a single bubble is assumed, while in reality there can be multiple.
 
-The Supremum Augment Dickey-Fuller \(SADF\) test by Phillips, Wu and Yu \(2011\) tests for periodically collapsing bubble with the following specification
+The Supremum Augment Dickey-Fuller (SADF) test by Phillips, Wu and Yu (2011) tests for periodically collapsing bubble with the following specification
 
 $$
 \Delta y_t = \alpha + \beta y_{t-1} + \sum_{l=1}^L \gamma_l \Delta y_{t-l} + \epsilon_t
@@ -81,6 +81,5 @@ where $$\tau$$is taken sufficiently large to ensure the specification at the end
 **References**
 
 * Ulrich Homm, Jörg Breitung, Testing for Speculative Bubbles in Stock Markets: A Comparison of Alternative Methods, _Journal of Financial Econometrics_, Volume 10, Issue 1, Winter 2012, Pages 198–231, [https://doi.org/10.1093/jjfinec/nbr009](https://doi.org/10.1093/jjfinec/nbr009)
-* Chow, Gregory C. "Tests of Equality Between Sets of Coefficients in Two Linear Regressions." Econometrica 28, no. 3 \(1960\): 591-605. Accessed March 15, 2021. doi:10.2307/1910133.
-* Phillips, Peter CB, Yangru Wu, and Jun Yu. "Explosive behavior in the 1990s Nasdaq: When did exuberance escalate asset values?." International economic review 52, no. 1 \(2011\): 201-226.
-
+* Chow, Gregory C. "Tests of Equality Between Sets of Coefficients in Two Linear Regressions." Econometrica 28, no. 3 (1960): 591-605. Accessed March 15, 2021. doi:10.2307/1910133.
+* Phillips, Peter CB, Yangru Wu, and Jun Yu. "Explosive behavior in the 1990s Nasdaq: When did exuberance escalate asset values?." International economic review 52, no. 1 (2011): 201-226.

@@ -49,14 +49,3 @@ Endpoint: [https://api.mizar.ai/api/v1/dca-bots/trading-view/execute-command](ht
    "api_key": "<API KEY>"
 }
 ```
-
-## Shift safety orders
-
-```javascript
-{
-   "bot_id": "1",
-   "action":  "shift-safety-orders",
-   "api_key": "<API KEY>"
-}
-```
-

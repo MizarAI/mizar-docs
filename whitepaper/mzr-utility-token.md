@@ -12,7 +12,7 @@ Investors and traders who hold a certain amount of MZR will receive a reduction 
 
 **Features**
 
-Users that stake their MZR tokens get exclusive access to premium features such as trading signals from Telegram or more alternative features such as NFT and DEX tools** **(under development).
+Users that stake their MZR tokens get exclusive access to premium features such as trading signals from Telegram or more alternative features such as NFT and DEX tools **** (under development).
 
 **Referral**
 
