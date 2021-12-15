@@ -59,3 +59,16 @@ size indicates the relative size of the position. If you are sure that the posit
 }
 ```
 
+
+
+## Close all open positions for a specific pair
+
+```javascript
+{
+  "api_key": "",
+  "action": "close-all-positions",
+  "strategy_id": "",
+  "base_asset": "",
+  "quote_asset": ""
+}
+```
