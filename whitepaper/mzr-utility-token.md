@@ -18,9 +18,9 @@ Users that stake their MZR tokens get exclusive access to premium features such 
 
 Users can invite other traders through referral code and get part of their trading and performance fees. Users that stake their MZR can increase the share of referral fees they can get out of it.
 
-**Automated Crowdsourced Hedge Fund**
+**Galaxy Fund**
 
-Users can take part in the **Galaxy Fund** (under development) by providing liquidity.
+Users can take part in the first Automated Crowdsourced Hedge Fund (under development) by providing liquidity.
 
 ****
 
