@@ -69,4 +69,5 @@
 * [Vision](whitepaper/vision.md)
 * [Competitive Advantage](whitepaper/competitive-advantage.md)
 * [MZR Utility Token](whitepaper/mzr-utility-token.md)
+* [Galaxy Fund](whitepaper/galaxy-fund.md)
 * [Roadmap](whitepaper/roadmap.md)

@@ -18,9 +18,9 @@ Users that stake their MZR tokens get exclusive access to premium features such 
 
 Users can invite other traders through referral code and get part of their trading and performance fees. Users that stake their MZR can increase the share of referral fees they can get out of it.
 
-**Yield Farming**
+**Automated Crowdsourced Hedge Fund**
 
-Users can stake MZR in the **STAR Pool** (under development) and earn a passive income by getting staking rewards.
+Users can take part in the **Galaxy Fund** (under development) by providing liquidity.
 
 ****
 
