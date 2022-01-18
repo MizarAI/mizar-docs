@@ -14,13 +14,13 @@ In the general settings you can enter a **name** for your bot and provide a **de
 The name and the description will be shared with other users, if the bot is made public.
 {% endhint %}
 
-![](../.gitbook/assets/screenshot-2021-09-15-at-13.18.08.png)
+![](../../.gitbook/assets/screenshot-2021-09-15-at-13.18.08.png)
 
 ### Strategy Settings
 
 In the strategy Settings section, you can set the high-level behaviours of your bot.
 
-![Strategy Settings](../.gitbook/assets/screen-shot-2021-09-15-at-11.04.56-am.png)
+![Strategy Settings](../../.gitbook/assets/screen-shot-2021-09-15-at-11.04.56-am.png)
 
 #### Type
 
@@ -51,13 +51,13 @@ Start order conditions define the conditions to open a new position.
 * **TradingView (webhook/API)**: open a new position through TradingView's custom signal.
 * **TradingView Indicators**: open a new position based on technical indicators from TradingView, which can be customised directly in Mizar. For example, it is possible to create a starting condition on a technical indicator, such that it only opens a position if the technical indicator's value is below or above some user set threshold.&#x20;
 
-![Example of TradingView Customisable Starting Conditions](../.gitbook/assets/screenshot-2021-09-15-at-15.05.59.png)
+![Example of TradingView Customisable Starting Conditions](../../.gitbook/assets/screenshot-2021-09-15-at-15.05.59.png)
 
 ### Exchanges and Market
 
 Exchanges and Market section define where your bot will trade.
 
-![Exchanges and Market](../.gitbook/assets/screen-shot-2021-09-15-at-11.46.08-am.png)
+![Exchanges and Market](../../.gitbook/assets/screen-shot-2021-09-15-at-11.46.08-am.png)
 
 Multiple exchanges can be assigned to a bot settings. Only when the bot is activated, then you will be asked to decide in which exchange to run your DCA bot.
 
@@ -67,13 +67,13 @@ Each bot setting can be assigned either to SPOT or FUTURES market.
 
 In the pairs section you can select which pairs to trade. You have to select at least one pairs to trade with and you can select as many pairs as you want.
 
-![](../.gitbook/assets/screenshot-2021-09-15-at-13.19.00.png)
+![](../../.gitbook/assets/screenshot-2021-09-15-at-13.19.00.png)
 
 ### Take Profits
 
 In the take profits section, you can set the take profit conditions.
 
-![](../.gitbook/assets/screenshot-2021-09-15-at-13.19.18.png)
+![](../../.gitbook/assets/screenshot-2021-09-15-at-13.19.18.png)
 
 * **Take Profits:** The percentage a which profit will be taken (e.g. 1%).
 * **Take Profits Type:** There are two take profits type: either as percentage of the base order or as percentage of total volumes. If you select as **percentage of the base order**, then the take profit percentage will only be applied on the initial base order. For example if the base order size is 100 USD and the take profit percentage is 5%, then the bot will take profit when 5 USD profits can be realised. If multiple safety orders are hit in the same position, then the take profit order is recalculated in such a way that when it hits 5 USD profits will be made. If you select as **percentage of total volumes**, then the take profit percentage is applied on the total size of your position, i.e. base order including all hit safety orders.
@@ -91,7 +91,7 @@ A stop loss can be set for each position optionally. If the price moves against 
 * **Stop Loss Type**: When the stop loss is hit the bot can either a) close the position or b) close the position and stop the bot entirely
 * **Stop Loss Timeout**: The stop loss timeout is set in seconds, when the stop loss is hit for the first time, then after the timeout it will check again if the stop loss is still hit. If that is the case then the stop loss is activated. This is to prevent hitting the stop loss by accident.
 
-![](../.gitbook/assets/screenshot-2021-09-15-at-13.39.25.png)
+![](../../.gitbook/assets/screenshot-2021-09-15-at-13.39.25.png)
 
 ### Orders Settings
 
@@ -104,7 +104,7 @@ In this section, you can edit the settings for the safety orders. This is arguab
 * **Safety Order Volume Scale**: The volume scale can be used to increase the order size of each subsequent safety order. For example, if the volume scale is 2, and first safety order is set at 100 USD, then the safety order sizes 100 USD, 200 USD, 400 USD, 800 USD, etc. By increasing the order size per safety order, you effectively improve your average price and make it easier to exit with a profit.
 * **Safety Order Step Scale**: The step scale can be used to increase the price deviation per safety order. For example if the step scale is 2, and the initial deviation is 2%, then the next  deviations are 6%, 14%, 30%, etc.
 
-![](../.gitbook/assets/screenshot-2021-09-15-at-13.20.18.png)
+![](../../.gitbook/assets/screenshot-2021-09-15-at-13.20.18.png)
 
 ### Advanced Settings
 
@@ -113,4 +113,4 @@ In this section, we describe the advanced settings of the bot.
 * **Position Break Period**: The break period is defined in seconds and will build in a delay between the opening of positions. If a position is opened, then the next position can only be opened after the break period.
 * **Position Timeout**: The timeout is set in hours and a position will be automatically closed if the timeout has expired. If the timeout is not set, then the position is kept open indefinitely until the take profit order, or optionally, the stop loss is hit.
 
-![](../.gitbook/assets/screenshot-2021-09-15-at-13.20.37.png)
+![](../../.gitbook/assets/screenshot-2021-09-15-at-13.20.37.png)

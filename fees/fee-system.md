@@ -57,8 +57,8 @@ Example:
 
 * **Volumes fee = ($56,000 - $10,000) \* 0.06% = $27.6**
 
-**Trader C  has 15 active bots in August. In total, the bots traded in August (from 01.08.21 to 31.08.21) $1,000,000 of volumes. Mizar applies the following fee:**&#x20;
+**Trader C  has 15 active bots. In total, the bots traded in August (from 01.08.21 to 31.08.21) $1,000,000 of volumes. Mizar applies the following fee:**&#x20;
 
-* **Volume fee = ($1,000,000 - $10,000) \* 0.06% = $594**
+* **Volume fee = ($1,000,000 - $10,000) \* 0.01% = $101**
 
 ****

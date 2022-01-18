@@ -1,5 +1,5 @@
 ---
-description: Smart trading for everyone
+description: Trading for everyone
 ---
 
 # Mizar
@@ -12,15 +12,13 @@ All Mizar founders have been trading in several markets in a personal capacity o
 
 **The Vision**
 
-We believe that algorithmic trading should be simpler and accessible to everyone.
+We believe that trading should be simpler and accessible to everyone.
 
 We believe in a world where professional traders, part-time traders and investors can access the most advanced trading tools without paying large fixed fees.
 
 We believe that any investor and trader can share their trading knowledge and generate passive income.
 
 Welcome to Mizar where trading is made simple for you.
-
-
 
 
 
