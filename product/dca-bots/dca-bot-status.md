@@ -4,20 +4,20 @@ Mizar is constantly checking that your DCA bot is running in a healthy mode. If 
 
 If your status looks like the snapshot below, it means everything is running smoothly
 
-![](../.gitbook/assets/screenshot-2021-09-17-at-08.47.25.png)
+![](../../.gitbook/assets/screenshot-2021-09-17-at-08.47.25.png)
 
 If your status looks like the snapshot below, it means that a problem occurred.
 
-![](../.gitbook/assets/screenshot-2021-09-17-at-08.49.19.png)
+![](../../.gitbook/assets/screenshot-2021-09-17-at-08.49.19.png)
 
 Possible reasons:
 
 **Insufficient funds**: If you are trading BTC/USDT, it means USDT is your quote asset. In order to be able to trade and to open positions, you need to have enough assets in your exchange. The bot is constantly checking that you have enough quote assets available in your exchange. If you do not have it, it will stop to trade until enough assets are available.
 
 {% hint style="info" %}
-Solution: 
+Solution:&#x20;
 
-1\) Increase your available assets by depositing more capital into your exchange or swap some of your tokens. 
+1\) Increase your available assets by depositing more capital into your exchange or swap some of your tokens.&#x20;
 
 2\) Reduce your base or safety order size.
 {% endhint %}
@@ -41,7 +41,7 @@ Solution:
 1\) Review your API connectivity settings in your exchange.
 {% endhint %}
 
-1. **Permission denied**: Exchanges offer different services such as derivatives trading. Some of these functionalities have to be set into your exchange account. If you use some more advanced functionalities on Mizar \(such as FUTURES trading\) but you are not allowed to do that in your exchange, you might incur into the permission denied error. Some reasons:
+1. **Permission denied**: Exchanges offer different services such as derivatives trading. Some of these functionalities have to be set into your exchange account. If you use some more advanced functionalities on Mizar (such as FUTURES trading) but you are not allowed to do that in your exchange, you might incur into the permission denied error. Some reasons:
    1. Your account is not allowed to trade Futures or derivatives.
    2. Your account is not allowed to trade certain pairs such as BULL or BEAR.
 
@@ -51,5 +51,4 @@ Solution:
 1\) Review your exchange account settings.
 {% endhint %}
 
-For any kind of issue, the Mizar team is happy to assist you. For any inquire, contact us on [Telegram](https://t.me/mizar_ai) or [Discord](https://discord.gg/gM4mAYMeWG) or email us at info@mizar.ai.
-
+For any kind of issue, the Mizar team is happy to assist you. For any inquire, contact us on [Telegram](https://t.me/mizar\_ai) or [Discord](https://discord.gg/gM4mAYMeWG) or email us at info@mizar.ai.

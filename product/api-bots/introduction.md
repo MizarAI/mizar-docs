@@ -6,5 +6,8 @@ Traders will be able to see the performance of their signals with paper trading 
 
 Check out the official API [docs](https://api.mizar.ai/redoc) and connect with the community in [discord](https://discord.gg/gB7ke7NU).
 
-#### 
+{% hint style="info" %}
+Check how to create a new API bot [here](../../introduction/api-bots/create-strategy.md).
+{% endhint %}
 
+####
