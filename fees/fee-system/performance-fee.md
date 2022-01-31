@@ -37,3 +37,6 @@ Check [here](../star-program-fees-reduction.md) to know more about the Mizar fee
    1. The strategy does not open any other position until the end of the month. The loss is of -$1,000, the user does not pay any performance fee.
    2. The strategy opens a new position and performs a profit of +$1,500, with "Hyper Giant" as STAR level. At the end of the day, Trader A pays the following performance fee: +$2,000 \* 5% \* 50% - $25= $25. The monthly profit is +$500 and Trader A pays a total of $25 (5%).
 
+{% hint style="info" %}
+IMPORTANT: If the users have no available balance in their Mizar wallet, the bots could run in a limited bot and positions could not be opened. Always make sure to have enough balance to avoid bots running in limited mode
+{% endhint %}
