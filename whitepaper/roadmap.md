@@ -4,36 +4,24 @@ description: How will Mizar achieve its goals and realize its vision?
 
 # Roadmap
 
-2021 Q3
+**Phase 1**
 
-* Launch of private beta platform
-* Traders onboarding
-* Integration with top 5 CEX
-
-2021 Q4
-
+* Mizar private beta platform
 * Integration with top 10 CEX
 * Launch of closed beta platform
-
-
-
-2022 Q1
-
 * Mizar open Beta release
 * MZR token launch and integration
-* Development of Mizar on DEX
-* Galaxy Fund kick-off
 
-2022 Q2
+**Phase 2**
 
-* Launch of Mizar on DEX -- testnet
+* Smart Trading
+* Trading Terminal
+* CEX Galaxy Fund
+* DEX Mizar -- testnet
 
-2022 Q3
+**Phase 3**
 
-* Launch of Mizar on DEX -- mainnet
-
-2022 Q4
-
-* Launch of Mizar multi-chain
-* Launch of Galaxy Fund on DEX
+* Mizar multi-chain
+* DEX Galaxy Fund
+* DAO managed Galaxy Fund
 
