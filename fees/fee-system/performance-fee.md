@@ -1,21 +1,21 @@
 ---
 description: >-
   Users can copy other traders and perform as they do. In exchange, copied
-  traders are rewarded based on their monthly profits.
+  traders are rewarded based on their realized monthly profits.
 ---
 
 # Performance Fee
 
 Traders can share successful strategies via the marketplace and get copied by other investors. In this way, traders are rewarded for their performance, while other investors can benefit from copying them. Traders are free to propose their own performance fee, which is shown in the strategy general information.
 
-When copying another trader, the investor will have to pay a performance fee based on the gross profit performed over the calendar month.
-
-Mizar developed a monthly high-water mark performance fee system. The purpose is to protect investors from paying a fee for poor performance, and from paying a fee repeatedly every time the strategy earns a profit. With a high-water mark, the investor pays a fee that only **covers the amount the investment earned between the beginning and the end of a calendar month**. If the outcome at the end of the month is a loss, no performance fee will be applied.
-
-The performance fee is calculated on the gross profit of each closed position and detracted from the user Mizar wallet on a daily basis. When a closed position is in loss, the user is refunded.
+When copying another trader, the investor will have to pay a performance fee based on the gross realized profit or loss. This is reconciled and automatically withdrawn (when realized daily profit) or credited (when realized daily losses and amount to be credited does not exceed the amount withdrawn) from the Mizar wallet every 24 hours.
 
 {% hint style="info" %}
-IMPORTANT: over a calendar month, the total performance fee for a strategy cannot be negative. In case of loss, no performance fee will applied.
+IMPORTANT: over a calendar month, the total performance fee for a strategy cannot be negative. In case of loss, no performance fee will applied for that month.
+{% endhint %}
+
+{% hint style="info" %}
+IMPORTANT: The performance fee is calculated on closed positions only. Unrealized Profit or Loss are not taken into account in the performance fee.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
