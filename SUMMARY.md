@@ -22,7 +22,9 @@
 
 ## Fees
 
-* [Fee system](fees/fee-system.md)
+* [Fee system](fees/fee-system/README.md)
+  * [Volume Fee](fees/fee-system/volume-fee.md)
+  * [Performance Fee](fees/fee-system/performance-fee.md)
 * [STAR Program - Fees Reduction](fees/star-program-fees-reduction.md)
 * [Fee Monitoring](fees/fee-monitoring.md)
 
