@@ -19,6 +19,7 @@
   * [Introduction](product/api-bots/introduction.md)
   * [API Trading - TradingView](product/api-bots/self-hosted-strategies-tradingview.md)
   * [API Trading SDK](product/api-bots/how-to-interact-with-mizar-api-through-mizar-sdk.md)
+* [Galaxy Fund](product/galaxy-fund.md)
 
 ## Fees
 

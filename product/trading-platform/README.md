@@ -10,7 +10,7 @@ Mizar gives the opportunity to everyone to get access to advanced trading tools 
 
 Users can develop different kind of bots without the need of coding or use smart trading tools to place and manage orders on different exchanges, at the same time.&#x20;
 
-Users can share their strategies and portfolios with the community and get copied by others, to get rewarded based on their actual performance, or copy trade the top performing traders in the marketplace.&#x20;
+Users can share their strategies and portfolios with the community and get copied by others, to get rewarded based on their actual performance. &#x20;
 
-Using Mizar’s subscription-free service, where users will never be asked to pay any fixed fee, traders can automate their Centralized and Decentralized trading strategies and finally leave their screens behind. Users pay fee’s based on traded volumes, or performance when copy-trading, and feel comfortable knowing their strategies will be executed using the tools provided though Mizar.
+Mizar is subscription-free, in the sense that users will never be asked to pay any fixed fee. Users can pay based on traded volumes or performance when copy-trading.
 
