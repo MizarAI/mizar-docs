@@ -14,3 +14,7 @@ Users can share their referral link with their friends and community, to earn up
 | Bright Giant | 35%                          | 8%                                |
 | Super Giant  | 38%                          | 10%                               |
 | Hyper Giant  | 40%                          | 15%                               |
+
+* Star Level: This is the ranking you can achieve based on the 30 days average traded volume and $MZR token held in your M-wallet. Check [here](star-program-fees-reduction.md) for more info.
+* Volume fee reward: This is the reward you will get based on the volume fee paid by your friends while trading with Mizar. Check [here](fee-system/volume-fee.md) our volume fee pricing model.
+* Performance fee reward: This is the reward you will get based on the performance fee paid by your friends while copy-trading with Mizar. Check [here](fee-system/performance-fee.md) our performance fee pricing model.
