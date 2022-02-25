@@ -7,7 +7,11 @@ description: Invite a friend to earn up to 40% commission.
 Users can share their referral link with their friends and community, to earn up to 40% (based on their STAR level) commission when their friends start trading.&#x20;
 
 {% hint style="info" %}
-Referred friends have right to 5% discount on their volume fee, forever!
+Referred friends have right to 5% discount on their volume fee
+{% endhint %}
+
+{% hint style="info" %}
+The following referral scheme is intended to last until Phase I is completed. Mizar reserves all the right to change it afterward.
 {% endhint %}
 
 | Star Level   | Volume fee reward | Performance fee reward |
