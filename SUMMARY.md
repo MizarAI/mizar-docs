@@ -21,13 +21,14 @@
   * [API Trading SDK](product/api-bots/how-to-interact-with-mizar-api-through-mizar-sdk.md)
 * [Galaxy Fund](product/galaxy-fund.md)
 
-## Fees
+## Fees and Referral <a href="#fees" id="fees"></a>
 
 * [Fee system](fees/fee-system.md)
   * [Volume Fee](fees/fee-system/volume-fee.md)
   * [Performance Fee](fees/fee-system/performance-fee.md)
 * [STAR Program - Fees Reduction](fees/star-program-fees-reduction.md)
 * [Fee Monitoring](fees/fee-monitoring.md)
+* [Referral](fees/referral.md)
 
 ## Tutorials <a href="#introduction" id="introduction"></a>
 
