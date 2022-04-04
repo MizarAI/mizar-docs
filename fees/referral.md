@@ -16,12 +16,16 @@ The following referral scheme is intended to last until Phase I is completed. Mi
 
 | Star Level   | Volume fee reward |
 | ------------ | ----------------- |
-| White Dwarf  | 10%               |
-| Sub Giant    | 30%               |
-| Giant        | 33%               |
-| Bright Giant | 35%               |
-| Super Giant  | 38%               |
-| Hyper Giant  | 40%               |
+| Nebula       | 3%                |
+| Proto-star   | 5%                |
+| Brown Dwarf  | 10%               |
+| Sub Giant    | 15%               |
+| Giant        | 20%               |
+| Bright Giant | 25%               |
+| Super Giant  | 30%               |
+| Hyper Giant  | 35%               |
+| Supernova    | 40%               |
+| Black Hole   | 45%               |
 
 * **Star** **Level**: This is the ranking you can achieve based on the 30 days average traded volume and $MZR token held in your M-wallet. Check [here](star-program-fees-reduction.md) for more info.
 * **Volume** **fee** **reward**: This is the reward you will get based on the volume fee paid by your friends while trading with Mizar. Check [here](fee-system/volume-fee.md) our volume fee pricing model.
