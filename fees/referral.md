@@ -1,10 +1,10 @@
 ---
-description: Invite a friend to earn up to 40% commission.
+description: Invite a friend to earn up to 45% commission.
 ---
 
 # Referral
 
-Users can share their referral link with their friends and community, to earn up to 40% (based on their STAR level) commission when their friends start trading.&#x20;
+Users can share their referral link with their friends and community, to earn up to 45% (based on their STAR level) commission when their friends start trading.&#x20;
 
 {% hint style="info" %}
 Referred friends have right to 5% discount on their volume fee.
