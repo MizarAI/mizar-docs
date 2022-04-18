@@ -20,6 +20,7 @@
   * [API Trading - TradingView](product/api-bots/self-hosted-strategies-tradingview.md)
   * [API Trading SDK](product/api-bots/how-to-interact-with-mizar-api-through-mizar-sdk.md)
 * [Galaxy Fund](product/galaxy-fund.md)
+* [$MZR](product/usdmzr.md)
 
 ## Fees and Referral <a href="#fees" id="fees"></a>
 
@@ -75,6 +76,8 @@
 * [DeFi - Trading](whitepaper/defi-trading.md)
 * [Vision](whitepaper/vision.md)
 * [Competitive Advantage](whitepaper/competitive-advantage.md)
-* [MZR Utility Token](whitepaper/mzr-utility-token.md)
+* [$MZR Utility Token](whitepaper/mzr-utility-token/README.md)
+  * [Utility](whitepaper/mzr-utility-token/utility.md)
+  * [Tokenomics](whitepaper/mzr-utility-token/tokenomics.md)
 * [Galaxy Fund](whitepaper/galaxy-fund.md)
 * [Roadmap](whitepaper/roadmap.md)
