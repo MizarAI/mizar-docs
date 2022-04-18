@@ -13,6 +13,6 @@
 * **Advisors**: Tokens for advisors who have helped Mizar Strategically, throughout the course of Mizar’s Development.
 * **Team**: Tokens for Team members to ensure long term engagement with Mizar.
 
-![Token Distribution](<../../.gitbook/assets/token\_metrics (1).png>)
+![Token allocation](<../../.gitbook/assets/Mizar\_Token Allocation.png>)
 
 ![Release Schedule](../../.gitbook/assets/token\_release.png)
