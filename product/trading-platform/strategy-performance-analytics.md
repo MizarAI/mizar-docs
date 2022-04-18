@@ -1,18 +1,27 @@
 ---
 description: >-
-  The place where traders of all level can create their own bots without writing
-  a single line of code
+  The place where traders of all levels can create their own bots without
+  needing to write a single line of code.
 ---
 
 # BotLabs
 
-Mizar offers to traders of all level professional trading tools to put their cryptos in motion and automate their trades.&#x20;
+BotLabs has been designed for traders of all levels, from beginners to experts.
 
-Traders can develop simple or advanced bots, trading multiple pairs on multiple exchanges at the same time, on SPOT or FUTURES markets. The Mizar team developed a low-latency, safe and secure infrastructure to let traders focus on their main needs: trade, maximizing profits, and minimizing risks.&#x20;
+Thanks to a user-friendly interface, anyone can use or develop bots simply by a couple of clicks of a mouse with an unlimited number of indicators.&#x20;
 
-Trading cryptos is hard and with far greater risk than other markets. Crypto trading is 24/7, time-consuming, and requires advanced tech and financial know-how. With Mizar, users can develop their own bots, overcome emotions and generate profits from cryptos in any market condition.
+Thanks to an advanced API system, expert traders and trading firms can interact with Mizar by sending signals and commands through the Mizar Application Programming Interface.
 
-With BotLabs, users do not have to be expert traders or quants. Mizar developed a user-friendly interface where everyone can develop bots simply by a couple of clicks of a mouse.
+Traders can  develop simple or advanced bots based on a variety of metrics fine tuned to fit the trader's exact needs. Bots can be created to trade multiple pairs on multiple exchanges and markets at the same time.&#x20;
 
-![](../../.gitbook/assets/screenshot-2021-09-16-at-08.49.30.png)
+The Mizar team has developed a low-latency, safe & secure infrastructure to let traders focus on core needs to trade efficiently while maximizing profits, and minimizing risks.&#x20;
+
+On Mizar, traders can develop the following type of bots:
+
+* **DCA Bots**: an effective way to minimize risk when trading. Learn more [here](../dca-bots/).
+* **API Bots**: flexible trading bots for expert traders. Learn more [here](../../introduction/api-bots/).
+
+Trading cryptos can be difficult, as well as time consuming, and is getting more so by the day, with far greater risk than other markets due to its volatility and inherent risks. Unlike traditional markets, Crypto trading is 24/7 which is time-consuming, and requires advanced tech and financial know-how to trade effectively. Developing your own bots will help overcome emotions and generate profits from cryptos in any market condition without the need to be in front of your screen to execute trades.&#x20;
+
+By using Mizar’s automated bots for centralized and decentralized exchanges, allows for one to get back their time and focus on the other important things in life.
 

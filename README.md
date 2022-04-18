@@ -4,19 +4,20 @@ description: Welcome to Mizar where trading is made simple for you.
 
 # Mizar
 
-Mizar is a next-gen trading platform where traders can search for strategies to securely allocate capital or get access to a wide range of trading tools to put their assets in motion. Mizar makes trading simpler and accessible to everyone, subscription-free.
+Mizar is a next-gen trading platform where traders can optimize their crypto-trading and invest in successful trading strategies to securely allocate capital across a wide range of trading tools. Mizar’s Tools and Trading Strategies are simple and accessible to everyone in a subscription-free model.
 
-**Mizar's Mission**
+### Mizar's Mission
 
-All Mizar founders have been trading in several markets in a personal capacity or for large institutions and know how advanced trading tools can reduce risk and increase profitability. Mizar's mission is to deliver advanced yet simple to use trading tools and make them accessible to everyone.
+Previously, Mizar’s founders had been creating advanced trading tools for institutional traders across several markets, to help entire organizations automate their trading processes. Having created algorithms that automate trading strategies that reduced risk and increased profitability for these institutions, Mizar’s founders took it upon themselves to band together and bring their expertise into the market which they found devoid of viable options, CryptoCurrency! With that experience, they have made it Mizar's mission to deliver advanced yet simple-to-use trading tools that make cryptocurrency trading accessible to everyone.
 
-**The Vision**
+### The Mizar Vision&#x20;
 
-Mizar is aiming to solve the complexity of trading crypto and improve its accessibility.
+1. Mizar will bring automated trading to everyone so that crypto traders can increase their profitability while reducing risk.
+2. Mizar aims to solve the complexity of trading crypto and improve its accessibility to traders of all levels.
+3. Mizar will bridge advanced trading tools from CeFi to DeFi, addressing the problems of DEX trading.
+4. Mizar's platform will offer the most profitable strategies at a price which is proportional to the realized performance
 
-Mizar wants to open trading to everyone, offering a fair and proportional business model.&#x20;
-
-Mizar wants to bridge advanced trading tools from CeFi  to DeFi, addressing the problems of DEX trading
+&#x20; &#x20;
 
 
 

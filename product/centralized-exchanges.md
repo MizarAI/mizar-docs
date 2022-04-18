@@ -1,12 +1,16 @@
 ---
-description: On which CEX can I trade with Mizar?
+description: Which CEX can I trade on with Mizar?
 ---
 
 # Centralized Exchanges
 
-Mizar is non-custodian, users asset's will never leave their accounts and wallets. Users can simply connect through API to their accounts and trade through Mizar on their favourite exchanges
+Mizar is non-custodian, which means users asset's will never leave their accounts and wallets.&#x20;
 
-Mizar already integrated the top exchanges and planning to expand soon.&#x20;
+Users can simply connect their exchange account into Mizar through a dedicated API to their accounts and trade while knowing their funds are safely stored on their dedicated exchange.&#x20;
+
+Thanks to API connectivity, Mizar cannot remove or transfer funds from users' exchange wallets, giving users the comfort of knowing their funds are safe.&#x20;
+
+Mizar has already partnered with and is integrating the top crypto exchanges and is continuously expanding its offerings at users' requests.
 
 #### CEX available
 
