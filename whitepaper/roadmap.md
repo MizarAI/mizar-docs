@@ -9,7 +9,7 @@ description: How will Mizar achieve its goals and realize its vision?
 * Mizar private beta platform :stars:
 * Integration with top 10 CEX
 * Launch of closed beta platform :stars:
-* Mizar open Beta release :stars:
+* Mizar open beta release :stars:
 * MZR token launch and integration
 
 **Phase 2**
