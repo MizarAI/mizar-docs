@@ -19,7 +19,7 @@ The Mizar team has developed a low-latency, safe & secure infrastructure to let 
 On Mizar, traders can develop the following type of bots:
 
 * **DCA Bots**: an effective way to minimize risk when trading. Learn more [here](../dca-bots/).
-* **API Bots**: flexible trading bots for expert traders. Learn more [here](../../introduction/api-bots/).
+* **API Bots**: flexible trading bots for expert traders. Learn more [here](broken-reference).
 
 Trading cryptos can be difficult, as well as time consuming, and is getting more so by the day, with far greater risk than other markets due to its volatility and inherent risks. Unlike traditional markets, Crypto trading is 24/7 which is time-consuming, and requires advanced tech and financial know-how to trade effectively. Developing your own bots will help overcome emotions and generate profits from cryptos in any market condition without the need to be in front of your screen to execute trades.&#x20;
 

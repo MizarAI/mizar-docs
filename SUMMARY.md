@@ -31,25 +31,6 @@
 * [Fee Monitoring](fees/fee-monitoring.md)
 * [Referral](fees/referral.md)
 
-## Tutorials <a href="#introduction" id="introduction"></a>
-
-* [Connect Your Exchange](introduction/connect-exchange.md)
-* [Marketplace](introduction/allocate-capital.md)
-* [BotLabs](introduction/botlabs.md)
-* [Associate Capital](introduction/associate-capital/README.md)
-  * [Copy-trade](introduction/associate-capital/copy-trade.md)
-  * [Self-Trade](introduction/associate-capital/self-trade.md)
-  * [Auto-compounding](introduction/associate-capital/auto-compounding.md)
-* [Performance Metrics](introduction/what-are-the-strategies-metrics.md)
-* [Wallet](introduction/wallet.md)
-* [DCA Bots](introduction/dca-bots/README.md)
-  * [Create a New DCA Bot](introduction/dca-bots/create-a-new-dca-bot.md)
-  * [Evaluate DCA Bot Performance](introduction/dca-bots/evaluate-dca-bot-performance.md)
-  * [Monitor and Manage Active Positions](introduction/dca-bots/monitor-and-manage-active-positions.md)
-* [API Bots](introduction/api-bots/README.md)
-  * [How to create API key](introduction/api-bots/how-to-create-api-key.md)
-  * [Create strategy](introduction/api-bots/create-strategy.md)
-
 ## MizarLabs (COMING SOON) <a href="#mizarlabs" id="mizarlabs"></a>
 
 * [MizarLabs (COMING SOON)](mizarlabs/mizarlabs.md)
