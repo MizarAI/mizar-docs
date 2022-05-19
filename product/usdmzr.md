@@ -7,7 +7,7 @@ description: The Mizar utility token.
 The $MZR token will have many utility functions within the Mizar Ecosystem, the most important of which is the fee reduction that will be explained in the next section. Obtaining $MZR token allows users the benefits of:
 
 1. Reducing fees up to 95%
-2. Increase revenue sharing through referrals
+2. Increase revenue sharing through referrals up to 45%
 3. Being able to partake in staking for yield/rewards&#x20;
 4. Governance including the Treasury
 5. $MZR Lockbox & Galaxy Fund
