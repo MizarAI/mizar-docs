@@ -16,7 +16,7 @@ At Mizar, there are two different fee mechanisms.&#x20;
 2. Traders pay a performance fee when copying other traders, based on monthly gross profits.
 
 {% hint style="info" %}
-Fees are be reduced based on traded volume or MZR holdings in the Mizar wallet. Check [here](star-program-fees-reduction.md) for more information.\
+Fees are reduced based on traded volume or MZR holdings in the Mizar wallet. Check [here](star-program-fees-reduction.md) for more information.\
 
 {% endhint %}
 
