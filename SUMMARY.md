@@ -28,7 +28,6 @@
   * [Volume Fee](fees/fee-system/volume-fee.md)
   * [Performance Fee](fees/fee-system/performance-fee.md)
 * [STAR Program - Fees Reduction](fees/star-program-fees-reduction.md)
-* [Fee Monitoring](fees/fee-monitoring.md)
 * [Referral](fees/referral.md)
 
 ## MizarLabs (COMING SOON) <a href="#mizarlabs" id="mizarlabs"></a>

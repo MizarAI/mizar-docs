@@ -4,7 +4,7 @@ description: How to trade on DeFi
 
 # DeFi - Trading
 
-In recent years we’ve seen a massive surge in popularity for decentralized finance; within the span of 18 months, decentralized finance (DeFi) has become a thriving sector with over [$250bn total value locked](https://defillama.com). While centralized exchanges have contributed massively to the growth of cryptocurrencies in recent years, the shift to more transparent and decentralized solutions are sparked by concerns over regulations, privacy and security.
+In recent years we’ve seen a massive surge in popularity for decentralized finance; within the span of 18 months, decentralized finance (DeFi) has become a thriving sector with over [$250bn total value locked](https://defillama.com/). While centralized exchanges have contributed massively to the growth of cryptocurrencies in recent years, the shift to more transparent and decentralized solutions are sparked by concerns over regulations, privacy and security.
 
 While Ethereum has been the most dominant chain within the DeFi landscape, the future might not revolve solely on Ethereum but on multiple chains that coexist and grow harmoniously. The rise of DeFi has illustrated the need for Ethereum scaling solutions to support an ecosystem of DeFi applications. The crypto community is grateful for the innovation and opportunities that Ethereum has created, but as usage on Ethereum grows gas fees rose to levels that made it too expensive for everyone to use. Promising L2 and L1 solutions like Polygon, Fantom, Avalanche and Terra might be a possible solution to the current scaling issues.&#x20;
 
