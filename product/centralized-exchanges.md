@@ -26,3 +26,4 @@ Mizar has already partnered with and is integrating the top crypto exchanges and
 | MEXC         | ✓           | COMING SOON | COMING SOON                                                                                          |
 | Binance US   | COMING SOON | COMING SOON | COMING SOON                                                                                          |
 | WOO X        | COMING SOON | COMING SOON | COMING SOON                                                                                          |
+| ByBit        | COMING SOON | COMING SOON | COMING SOON                                                                                          |
