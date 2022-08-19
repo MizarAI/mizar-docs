@@ -18,7 +18,7 @@ Mizar has already partnered with and is integrating the top crypto exchanges and
 | ------------ | ---- | ----------- | ---------------------------------------------------------------------------------------------------- |
 | Binance      | ✓    | ✓           | [API](https://www.binance.com/en/support/faq/360002502072)                                           |
 | KuCoin       | ✓    | ✓           | [API](https://support.kucoin.plus/hc/en-us/articles/360015102174-How-to-Create-an-API)               |
-| FTX          | ✓    | COMING SOON | [API](https://help.ftx.com/hc/en-us/articles/360028807171-API-docs)                                  |
+| FTX          | ✓    | ✓           | [API](https://help.ftx.com/hc/en-us/articles/360028807171-API-docs)                                  |
 | OKX          | ✓    | ✓           | [API](https://www.okex.com/academy/en-in/how-to-use-api-trading-on-okex)                             |
 | Coinbase PRO | ✓    | -           | [API](https://help.coinbase.com/en/pro/other-topics/api/how-do-i-create-an-api-key-for-coinbase-pro) |
 | Bybit        | ✓    | ✓           | COMING SOON                                                                                          |
