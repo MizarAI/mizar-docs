@@ -4,7 +4,7 @@ description: TradingView webhook commands
 
 # DCA Bot - TradingView
 
-Endpoint: [https://api.mizar.ai/api/v1/dca-bots/trading-view/execute-command](https://api.mizar.ai/api/v1/dca-bots/trading-view/execute-command)
+Endpoint: [https://api.mizar.com/api/v1/dca-bots/trading-view/execute-command](https://api.mizar.com/redoc#tag/DCA-Bot/operation/execute\_command\_api\_v1\_dca\_bots\_trading\_view\_execute\_command\_post)
 
 ## Open position
 

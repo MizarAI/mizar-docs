@@ -4,7 +4,7 @@ description: TradingView webhook commands
 
 # API Trading - TradingView
 
-Endpoint: [https://api.mizar.ai/api/v1/trading-view/execute-command](https://api.mizar.ai/api/v1/trading-view/execute-command)
+Endpoint: [https://api.mizar.com/api/v1/trading-view/execute-command](https://api.mizar.com/docs#/API%20Strategy/execute\_command\_api\_v1\_trading\_view\_execute\_command\_post)
 
 ## Open long position
 
