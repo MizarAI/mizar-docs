@@ -1,4 +1,4 @@
-# Coming soon products
+# Coming soon
 
 The next release, known as Phase II, will see Mizar enhanced with a host of new features.
 

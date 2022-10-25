@@ -3,11 +3,11 @@
 ## Whitepaper
 
 * [Abstract](README.md)
-* [Opportunity](whitepaper/opportunity.md)
+* [Opportunity](whitepaper/defi-trading.md)
 * [Solution](whitepaper/vision.md)
-* [How Mizar Works](whitepaper/competitive-advantage/README.md)
+* [How Mizar Works](whitepaper/competitive-advantage.md)
   * [Available Products](whitepaper/competitive-advantage/available-products.md)
-  * [Coming soon products](whitepaper/competitive-advantage/coming-soon-products.md)
+  * [Coming soon](whitepaper/competitive-advantage/coming-soon.md)
 * [MZR Token](whitepaper/mzr-token/README.md)
   * [Use Cases](whitepaper/mzr-token/use-cases.md)
   * [Governance](whitepaper/mzr-token/governance.md)
