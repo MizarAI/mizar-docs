@@ -2,21 +2,14 @@
 description: What does the current playing field look like?
 ---
 
-# The Current State of Financial Markets
+# Abstract
 
-Currently, only large players in the financial market have the resources to deploy and trade with algorithms or using smart trading tools. In recent years the volume transacted with algorithms has increased to such an extent that a majority of orders in the financial markets are executed automatically by computers. For instance, a 2019 study showed 92% of Forex trades were made by algorithms and not manually by humans (Kissell, 2020).
+Mizar is a smart trading platform that enables beginners to profit from the wisdom of their peers. A two-sided marketplace allows novices to copy-trade from profitable pros who in turn can monetize their skills. Automated trading, strategy sharing, and code-free bot creation are all integrated into a user-friendly yet feature-rich interface. And because there are zero monthly subscription fees, no one is priced out of using Mizar.
 
-However many people are still trading manually. These are often retail investors or small players who are looking to grow their money. Over the last 10 years, interest rates have essentially dropped to 0%, coupled with inflation, most people with savings accounts are effectively losing money. This has led many to look for alternative ways to beat inflation, most commonly by trying to participate in the financial markets. This, along with the rise of platforms like eToro and RobinHood has led to 25% of the stock market now being owned by retail investors (Winck, 2020).&#x20;
+Designed to drive down the barriers to growing crypto wealth, Mizar’s copy-trading marketplace is complemented by advanced analytics, leaderboards, and an incentivized staking program.
 
-Retail investors typically do not have access to the advanced technologies the big players are using to manage their investments and therefore have to resort to manual trading. These investors do not have the time and the capacity to manage their investments actively and often are not allowed to invest their capital in algorithmic trading firms as they do not meet the minimum amount of capital required to participate.
+The $MZR token aligns incentives, delivering lower fees, facilitating governance and fostering a robust ecosystem that rewards contributors commensurate with their efforts. In so doing, Mizar will democratize crypto investment, enabling everyone to access the tools for obtaining financial independence.
 
-Moreover, the big players are quickly consolidating their power. As more and more assets are managed by these quantitative trading firms, the market becomes highly centralised and is dominated by whales. Smaller players, often individuals and small firms have an incredibly high barrier to entry and have serious difficulty in attracting capital from other investors and therefore they struggle to grow as much as they could. In order to attract customers these smaller firms would have to report on their performance, but this introduces an inherent conflict of interest as quants have an incentive to report too optimistically.
+As Mizar rolls out its multi-phase roadmap, users will be able to trade across dozens of CEX and DEX platforms from a single terminal. The introduction of AI to support better decision-making and enhanced analytics will allow users to derive greater success from DCA and API bots and to automate order creation and execution. As a result, beginners can tap into powerful trading tools that are normally only accessible to pros with a low barrier to entry.
 
-These issues will continue to widen the already huge chasm between the big algorithmic trading firms and the smaller players. The rapid growth and adoption of expensive cutting-edge technology in financial markets will only benefit the wealthy few.&#x20;
-
-Trading cryptos is hard and with far greater risk than other markets. Crypto trading is 24/7, time-consuming and requires advanced tech and financial know-how. Even though most of the cryptos investors struggle to follow the crypto markets and get profits out of it, the majority of it does not want to lose this opportunity due to the high expectations and possible future outcomes. Most of the current investment vehicles are too prohibitive for the average retailers, and most of them rely on daily news, family or friends suggestions or other kind of informative tools such as Trading View for the most skilled. All in all, emotions and FOMO are the main leading indicator in this kind of market, which is naturally linked to high volatility and fast innovation.&#x20;
-
-**References**
-
-* Winck, B (2020, July 9). _"Retail traders make up nearly 25% of the stock market following COVID-driven volatility, Citadel Securities says"._ Business Insider. [https://markets.businessinsider.com/news/stocks/retail-investors-quarter-of-stock-market-coronavirus-volatility-trading-citadel-2020-7-1029382035](https://markets.businessinsider.com/news/stocks/retail-investors-quarter-of-stock-market-coronavirus-volatility-trading-citadel-2020-7-1029382035)
-* Kissell, R. (2020). _Algorithmic Trading Methods_ (2nd ed.). Elsevier.
+With a focus on UI, onboarding, and transparency, Mizar represents a quantum leap over incumbent trading platforms. The ability to set different order types and filter strategies by risk and profitability supports a circular economy in which everyone can prosper.

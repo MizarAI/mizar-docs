@@ -52,7 +52,7 @@
 
 ## Whitepaper
 
-* [The Current State of Financial Markets](whitepaper/current-state-of-financial-markets-and-quantitative-trading.md)
+* [Abstract](whitepaper/current-state-of-financial-markets-and-quantitative-trading.md)
 * [DeFi - Trading](whitepaper/defi-trading.md)
 * [Vision](whitepaper/vision.md)
 * [Competitive Advantage](whitepaper/competitive-advantage.md)
