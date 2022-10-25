@@ -1,6 +1,24 @@
 # Table of contents
 
-* [Mizar](README.md)
+## Whitepaper
+
+* [Abstract](README.md)
+* [Opportunity](whitepaper/opportunity.md)
+* [Solution](whitepaper/vision.md)
+* [How Mizar Works](whitepaper/competitive-advantage/README.md)
+  * [Available Products](whitepaper/competitive-advantage/available-products.md)
+  * [Coming soon products](whitepaper/competitive-advantage/coming-soon-products.md)
+* [MZR Token](whitepaper/mzr-token/README.md)
+  * [Use Cases](whitepaper/mzr-token/use-cases.md)
+  * [Governance](whitepaper/mzr-token/governance.md)
+  * [Token Metrics](whitepaper/mzr-token/token-metrics.md)
+* [Competitor Analysis](whitepaper/competitor-analysis.md)
+* [Mizar vs 3Commas vs Cryptohopper](whitepaper/mizar-vs-3commas-vs-cryptohopper.md)
+* [Roadmap](whitepaper/roadmap/README.md)
+  * [Milestone Reached](whitepaper/roadmap/milestone-reached.md)
+  * [Phase I](whitepaper/roadmap/phase-i.md)
+  * [Phase II](whitepaper/roadmap/phase-ii.md)
+* [Team](whitepaper/team.md)
 
 ## The Product <a href="#product" id="product"></a>
 
@@ -49,15 +67,3 @@
   * [Microstructural Features](mizarlabs/transformations/microstructural-features.md)
 * [Strategy Backtesting](mizarlabs/backtesting.md)
 * [Strategy Deployment](mizarlabs/trading-strategy-deployment.md)
-
-## Whitepaper
-
-* [Abstract](whitepaper/current-state-of-financial-markets-and-quantitative-trading.md)
-* [DeFi - Trading](whitepaper/defi-trading.md)
-* [Vision](whitepaper/vision.md)
-* [Competitive Advantage](whitepaper/competitive-advantage.md)
-* [$MZR Utility Token](whitepaper/mzr-utility-token/README.md)
-  * [Utility](whitepaper/mzr-utility-token/utility.md)
-  * [Tokenomics](whitepaper/mzr-utility-token/tokenomics.md)
-* [Galaxy Fund](whitepaper/galaxy-fund.md)
-* [Roadmap](whitepaper/roadmap.md)

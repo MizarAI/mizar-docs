@@ -1,16 +1,16 @@
----
-description: Why Mizar?
----
+# Solution
 
-# Vision
+Mizar is a smart order management platform that’s designed to meet the needs of retail users. It provides best-in-class tools for crypto trading, knowledge accrual, and wealth generation. Through a series of highly optimized and automated trading tools, Mizar makes crypto trading accessible to everyone across the full spectrum of CeFi and DeFi markets.
 
-Mizar's vision is to realize the full potential of smart and algorithmic trading to drive a new era of passively and actively managed exposure to crypto
+A next-gen trading solution for centralized and decentralized exchanges, Mizar provides access to advanced trading tools through a user-friendly, subscription-free platform. Primary features
 
-Mizar is aiming to solve the complexity of trading crypto and improve its accessibility. The Mizar team is developing an innovative yet simple trading platform which offers to its user trading tools for traders of all level.&#x20;
+**Automated trading**: Users can automate their trades to save time and increase profitability while reducing risks. Orders can be executed across multiple crypto exchange accounts in one click.
 
-Mizar wants to open trading to everyone, offering a fair and proportional business model. No user will ever be asked to pay a fixed fee, because the Mizar team believes each investor should be able to pay based on her resources and capacities.&#x20;
+**Strategy sharing**: Successful traders can share their wisdom through a copy-trading feature and earn a passive income. Mizar users can plug into smart strategies and outperform the market by piggybacking off the efforts of pros with a proven track record.
 
-Mizar wants to bridge advanced trading tools from CeFi  to DeFi, addressing the problems of facilitating advanced trades within multiple networks with a solution that would enable anyone to trade multiple pairs, execute advanced orders or low-risk strategies all within one simple-to-use platform.
+**Code-free**: Traders can build up strategies and bots without any coding required. Traders can send signals to Mizar through API systems or open new positions through a user-friendly terminal and then let their bots or smart functionalities manage the orders. With multiple entry zones, stop-loss or DCA, users can build up low-risk strategies to manage their trades.
+
+**Transparent**: Mizar utilizes a transparent fee system and its strategies and policies are clear and visible. The same ethos is enshrined in the daily work its team underakes.&#x20;
 
 \
 

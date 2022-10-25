@@ -1,27 +1,11 @@
----
-description: Welcome to Mizar where trading is made simple for you.
----
+# Abstract
 
-# Mizar
+Mizar is a smart trading platform that enables beginners to profit from the wisdom of their peers. A two-sided marketplace allows novices to copy-trade from profitable pros who in turn can monetize their skills. Automated trading, strategy sharing, and code-free bot creation are all integrated into a user-friendly yet feature-rich interface. And because there are zero monthly subscription fees, no one is priced out of using Mizar.
 
-Mizar is a next-gen trading platform where traders can optimize their crypto-trading and invest in successful trading strategies to securely allocate capital across a wide range of trading tools. Mizar’s Tools and Trading Strategies are simple and accessible to everyone in a subscription-free model.
+Designed to drive down the barriers to growing crypto wealth, Mizar’s copy-trading marketplace is complemented by advanced analytics, leaderboards, and an incentivized staking program.
 
-### Mizar's Mission
+The $MZR token aligns incentives, delivering lower fees, facilitating governance and fostering a robust ecosystem that rewards contributors commensurate with their efforts. In doing so, Mizar will democratize crypto investment, enabling everyone to access the tools for obtaining financial independence.
 
-Previously, Mizar’s founders had been creating advanced trading tools for institutional traders across several markets, to help entire organizations automate their trading processes. Having created algorithms that automate trading strategies that reduced risk and increased profitability for these institutions, Mizar’s founders took it upon themselves to band together and bring their expertise into the market which they found devoid of viable options, CryptoCurrency! With that experience, they have made it Mizar's mission to deliver advanced yet simple-to-use trading tools that make cryptocurrency trading accessible to everyone.
+As Mizar rolls out its multi-phase roadmap, users will be able to trade across dozens of CEX and DEX platforms from a single terminal. The introduction of AI to support better decision-making and enhanced analytics will allow users to derive greater success from DCA, API or GRID bots and to automate order creation and execution. As a result, beginners can tap into powerful trading tools that are normally only accessible to professionals with a low barrier to entry.
 
-### The Mizar Vision&#x20;
-
-1. Mizar will bring automated trading to everyone so that crypto traders can increase their profitability while reducing risk.
-2. Mizar aims to solve the complexity of trading crypto and improve its accessibility to traders of all levels.
-3. Mizar will bridge advanced trading tools from CeFi to DeFi, addressing the problems of DEX trading.
-4. Mizar's platform will offer the most profitable strategies at a price which is proportional to the realized performance
-
-&#x20; &#x20;
-
-
-
-
-
-
-
+With a focus on design, reliability, and transparency, Mizar represents a quantum leap over incumbent trading platforms. The ability to set different order types and filter strategies by risk and profitability supports a circular economy in which everyone can prosper.

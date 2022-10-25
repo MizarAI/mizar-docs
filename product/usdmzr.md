@@ -15,4 +15,4 @@ The $MZR token will have many utility functions within the Mizar Ecosystem, the 
 7. Access to Advanced features and dMizar
 8. Using $MZR as a form of payment for volume fees.&#x20;
 
-Learn more about $MZR [here](../whitepaper/mzr-utility-token/).
+Learn more about $MZR [here](broken-reference).

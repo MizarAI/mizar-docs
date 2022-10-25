@@ -13,5 +13,5 @@ Whereas centralized exchanges have advanced trading tools, decentralized exchang
 Mizar plans to fix this by giving users access to the same tools that are made available on centralized exchanges on decentralized exchanges, propelling decentralized exchanges into the future, helping turn the concept of mass adoption into a reality.
 
 {% hint style="info" %}
-Read more [here](../whitepaper/defi-trading.md).
+Read more [here](../whitepaper/opportunity.md).
 {% endhint %}
